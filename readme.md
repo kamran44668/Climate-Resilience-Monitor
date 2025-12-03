@@ -53,22 +53,23 @@ Unlike traditional weather reports that are **descriptive** (what happened?), th
 * **Worsening Air Quality:** Time-series analysis shows a steady **upward trend in AQI** (rising from ~85 to ~100+ over the observed period), signaling a growing environmental health crisis alongside economic risks.
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
-```text
-├── 📁 Assets/                  # Dashboard Demo GIF, Backgrounds & Theme
-├── 📁 Backup/                  # Database backup files
-├── 📁 Data_analysis/           # SQL scripts for Analytical Queries
-│   ├── 01_time_series_analysis.sql
-│   ├── 02_spatial_analysis.sql
-│   └── ... (Risk Analysis & Quality Checks)
-├── 📁 Data_cleaning/           # SQL scripts for ETL & Cleaning
-│   ├── 01_merge_country_tables.sql
-│   ├── 02_check_nulls.sql
-│   └── ... (Deduplication & Row Removal)
-├── 📁 Datasets/                # Source Data
-│   ├── Azerbaijan_climate_500.csv ... (and other country files)
-│   └── data_generator.py       # Python logic used for data simulation
-├── 00_setup_and_load.sql       # Main Setup Script (Schema Creation)
-├── Climate_Analytics_Capstone_Report.pdf  # Full Project Documentation
-└── dashboard.pbix              # Power BI Project File
+```
+Assets/                  # Dashboard Demo GIF, Backgrounds & Theme
+Backup/                  # Database backup files
+Data_analysis/           # SQL scripts for Analytical Queries
+  01_time_series_analysis.sql
+  02_spatial_analysis.sql
+  ... (Risk Analysis & Quality Checks)
+Data_cleaning/           # SQL scripts for ETL & Cleaning
+  01_merge_country_tables.sql
+  02_check_nulls.sql
+  ... (Deduplication & Row Removal)
+Datasets/                # Source Data
+  Azerbaijan_climate_500.csv ... (and other country files)
+  data_generator.py       # Python logic used for data simulation
+00_setup_and_load.sql    # Main Setup Script (Schema Creation)
+Climate_Analytics_Capstone_Report.pdf  # Full Project Documentation
+dashboard.pbix           # Power BI Project File
+```

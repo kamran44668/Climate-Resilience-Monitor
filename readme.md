@@ -59,19 +59,19 @@ Unlike traditional weather reports that are **descriptive** (what happened?), th
 ## 📂 Repository Structure
 
 ```text
-├── Assets/                     # Dashboard assets (Backgrounds, GIFs)
-├── Backup/                     # Database backup files (.bak)
+├── Assets/                     # Dashboard assets (Image, GIF, theme)
+├── Backup/                     # Database backup file (.bak)
 ├── Data_analysis/              # Analytical SQL Queries
-│   ├── 01_time_series.sql      # Analysis of trends over time
-│   ├── 02_spatial.sql          # Location-based risk assessment
+│   ├── 01_time_series_analysis.sql      # Analysis of trends over time
+│   ├── 02_spatial_analysis.sql          # Location-based risk assessment
 │   └── ...
 ├── Data_cleaning/              # ETL & Data Quality Scripts
-│   ├── 01_merge_tables.sql     # Unifying country data
-│   ├── 02_validation.sql       # Null checks and type casting
+│   ├── 01_merge_country_tables.sql     # Unifying country data
+│   ├── 02_check_nulls.sql       # Null checks and type casting
 │   └── ...
 ├── Datasets/                   # Source Data & Generation Logic
 │   ├── data_generator.py       # Python script for synthetic data
 │   └── [Raw_CSV_Files]         # Daily climate logs
 ├── 00_setup_and_load.sql       # MAIN SCRIPT: Run this to build DB
-├── Climate_Report.pdf          # Full Project Documentation
+├── Climate_Analytics_Capstone_Report.pdf          # Full Project Documentation
 └── dashboard.pbix              # Power BI Project File

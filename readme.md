@@ -9,6 +9,8 @@
 >
 > 📄 **[Read the Full Project Report (Documentation)](Climate_Analytics_Capstone_Report.pdf)**
 
+---
+
 ## 📋 Executive Summary
 Regional governments face rising costs from climate disasters but often lack a unified view of risk. This project transforms raw daily climate logs from 7 countries into a **Strategic Decision Support System**. 
 
@@ -22,7 +24,7 @@ Unlike traditional weather reports that are **descriptive** (what happened?), th
 ---
 
 ## 🔍 The Business Problem
-**The Challenge:** Climate data was fragmented across multiple CSV sources with inconsistent formatting, text-based numbers, and missing values.
+**The Challenge:** Climate data was fragmented across multiple CSV sources with inconsistent formatting, text-based numbers, and missing values.  
 **The Goal:** Build a centralized "Climate Resilience Monitor" to answer:
 1.  Which cities are entering high-risk periods?
 2.  Does infrastructure vulnerability correlate with higher economic loss?
@@ -47,29 +49,29 @@ Unlike traditional weather reports that are **descriptive** (what happened?), th
 
 ## 📊 Key Insights
 
-* **Droughts are the Primary Economic Drain:** Decomposition analysis reveals that **Droughts ($73.78M)** account for the highest total economic impact, surpassing Storms and Heatwaves.
-* **High Infrastructure Risk:** The dashboard highlights a **53% Infrastructure Failure Risk**, indicating that over half of recorded extreme events occurred in areas with vulnerable infrastructure systems.
-* **The "Critical Quadrant":** The Risk Matrix (Scatter Plot) identified specific cities in the **Top-Right Quadrant** (High Vulnerability + High Severity) that require immediate infrastructure reinforcement to prevent future losses.
-* **Worsening Air Quality:** Time-series analysis shows a steady **upward trend in AQI** (rising from ~85 to ~100+ over the observed period), signaling a growing environmental health crisis alongside economic risks.
+*   **Droughts are the Primary Economic Drain:** Decomposition analysis reveals that **Droughts ($73.78M)** account for the highest total economic impact, surpassing Storms and Heatwaves.
+*   **High Infrastructure Risk:** The dashboard highlights a **53% Infrastructure Failure Risk**, indicating that over half of recorded extreme events occurred in areas with vulnerable infrastructure systems.
+*   **The "Critical Quadrant":** The Risk Matrix (Scatter Plot) identified specific cities in the **Top-Right Quadrant** (High Vulnerability + High Severity) that require immediate infrastructure reinforcement to prevent future losses.
+*   **Worsening Air Quality:** Time-series analysis shows a steady **upward trend in AQI** (rising from ~85 to ~100+ over the observed period), signaling a growing environmental health crisis alongside economic risks.
+
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
-```
-Assets/                  # Dashboard Demo GIF, Backgrounds & Theme
-Backup/                  # Database backup files
-Data_analysis/           # SQL scripts for Analytical Queries
-  01_time_series_analysis.sql
-  02_spatial_analysis.sql
-  ... (Risk Analysis & Quality Checks)
-Data_cleaning/           # SQL scripts for ETL & Cleaning
-  01_merge_country_tables.sql
-  02_check_nulls.sql
-  ... (Deduplication & Row Removal)
-Datasets/                # Source Data
-  Azerbaijan_climate_500.csv ... (and other country files)
-  data_generator.py       # Python logic used for data simulation
-00_setup_and_load.sql    # Main Setup Script (Schema Creation)
-Climate_Analytics_Capstone_Report.pdf  # Full Project Documentation
-dashboard.pbix           # Power BI Project File
-```
+```text
+├── Assets/                     # Dashboard assets (Backgrounds, GIFs)
+├── Backup/                     # Database backup files (.bak)
+├── Data_analysis/              # Analytical SQL Queries
+│   ├── 01_time_series.sql      # Analysis of trends over time
+│   ├── 02_spatial.sql          # Location-based risk assessment
+│   └── ...
+├── Data_cleaning/              # ETL & Data Quality Scripts
+│   ├── 01_merge_tables.sql     # Unifying country data
+│   ├── 02_validation.sql       # Null checks and type casting
+│   └── ...
+├── Datasets/                   # Source Data & Generation Logic
+│   ├── data_generator.py       # Python script for synthetic data
+│   └── [Raw_CSV_Files]         # Daily climate logs
+├── 00_setup_and_load.sql       # MAIN SCRIPT: Run this to build DB
+├── Climate_Report.pdf          # Full Project Documentation
+└── dashboard.pbix              # Power BI Project File

@@ -1,0 +1,516 @@
+Record ID,Date,Country,City,Temperature (°C),Humidity (%),Precipitation (mm),Air Quality Index (AQI),Extreme Weather Events,Climate Classification,Climate_Zone,Biome_Type,Heat_Index,Wind_Speed,Wind_Direction,Season,Population_Exposure,Economic_Impact_Estimate,Infrastructure_Vulnerability_Score
+RU_0001,4/5/2024,Russia,Moscow,-4.7,74,0,80,Dust Storm,Dfb,Continental,Urban,-4.7,6.1,224,Spring,2840727,321124,34
+RU_0002,5/5/2024,Russia,Saint Petersburg,2.2,46,3.4,85,None,Dfc,Continental,Taiga,2.2,13.4,161,Spring,282752,0,52
+RU_0003,6/5/2024,Russia,Kazan,,66,NA,NA,None,Dfb,Subarctic,Forest,0.1,8.1,137,Spring,107043,0,49
+RU_0004,7/5/2024,Russia,Moscow,-5.6,45,0,83,None,Dfc,Continental,Urban,-5.6,3.5,130,Spring,1374119,0,51
+RU_0005,8/5/2024,Russia,Saint Petersburg,-0.5,54,0,87,None,Dfb,Continental,Taiga,-0.5,6.7,208,Spring,629079,0,59
+RU_0006,9/5/2024,Russia,Kazan,0.9,78,0,91,None,Dfc,Continental,Urban,0.9,3.4,134,Spring,177020,0,41
+RU_0007,10/5/2024,Russia,Moscow,2.0,41,1.6,103,Flood,Dfb,Continental,Forest,2.0,14.0,279,Spring,2445340,15375,70
+RU_0008,11/5/2024,Russia,Saint Petersburg,-0.9,69,3.6,85,None,Dfc,Subarctic,Urban,-0.9,3.0,92,Spring,303866,0,58
+RU_0009,12/5/2024,Russia,Kazan,-7.4,60,0,77,None,Dfb,Subarctic,Urban,-7.4,14.5,164,Spring,82324,19517,64
+RU_0010,13/5/2024,Russia,Moscow,2.0,44,28.4,107,None,Dfc,Continental,Urban,2.0,3.0,268,Spring,1442995,0,47
+RU_0011,14/5/2024,Russia,Saint Petersburg,-7.0,82,2.2,104,None,Dfb,Continental,Forest,-7.0,,335,Spring,703246,0,58
+RU_0012,15/5/2024,Russia,Kazan,-2.8,81,0,55,None,Dfc,Subarctic,Taiga,-2.8,8.8,230,Spring,166814,0,58
+RU_0013,16/5/2024,Russia,Moscow,-3.1,78,0,62,None,Dfc,Continental,Forest,-3.1,7.2,328,Spring,979458,45653,53
+RU_0014,17/5/2024,Russia,Saint Petersburg,-3.7,79,0,56,None,Dfb,Subarctic,Forest,-3.7,4.0,288,Spring,325868,0,42
+RU_0015,18/5/2024,Russia,Kazan,1.0,47,2.1,105,None,Dfb,Subarctic,Forest,1.0,12.1,319,Spring,126446,0,64
+RU_0016,19/5/2024,Russia,Moscow,-6.7,44,0,106,None,Dfc,Subarctic,Forest,-6.7,3.4,142,Spring,1219045,0,62
+RU_0017,20/5/2024,Russia,Saint Petersburg,-5.3,74,0,56,None,Dfc,Subarctic,Forest,-5.3,5.7,286,Spring,594753,0,42
+RU_0018,21/5/2024,Russia,Kazan,-0.7,53,1.6,109,None,Dfb,Continental,Urban,-0.7,3.2,8,Spring,134079,29465,50
+RU_0019,22/5/2024,Russia,Moscow,1.8,40,0.9,84,None,,Subarctic,Taiga,1.8,5.3,324,,1071323,0,52
+RU_0020,23/5/2024,Russia,Saint Petersburg,-5.9,74,1.9,115,Flood,Dfb,Continental,Forest,-5.9,6.1,8,Spring,1118123,596984,43
+RU_0021,24/5/2024,Russia,Kazan,2.5,71,0,74,Flood,Dfc,Subarctic,Forest,2.5,9.2,57,Spring,378282,0,81
+RU_0022,25/5/2024,Russia,Moscow,-3.7,74,0,95,Storm,Dfc,Subarctic,Forest,-3.7,22.4,81,Spring,2368340,7094,84
+RU_0023,26/5/2024,Russia,Saint Petersburg,-1.9,37,0,95,None,Dfc,Continental,Forest,-1.9,9.6,147,NA,"530,286",0,62
+RU_0024,27/5/2024,Russia,Kazan,0.2,59,4.7,108,None,Dfc,Continental,Forest,0.2,11.5,119,Spring,88695,0,59
+RU_0025,28/5/2024,Russia,Moscow,-2.9,35,4.8,99,None,Dfb,Continental,Forest,-2.9,4.6,255,Spring,1045605,0,53
+RU_0026,29/5/2024,Russia,Saint Petersburg,-6.6,37,4.9,88,None,Dfc,Subarctic,Taiga,-6.6,2.2,193,Spring,331439,0,51
+RU_0027,30/5/2024,Russia,Kazan,-6.4,83,3.2,71,Storm,Dfc,Subarctic,Forest,-6.4,27.2,39,Spring,279088,1409811,42
+RU_0028,31/5/2024,Russia,Moscow,-3.5,82,2.0,66,None,Dfb,Subarctic,Forest,-3.5,4.6,360,Spring,1487353,0,55
+RU_0029,1/6/2024,Russia,Saint Petersburg,24.6,47,2.2,113,None,Dfb,Continental,Taiga,24.6,9.5,292,Summer,687908,0,62
+RU_0030,2/6/2024,Russia,Kazan,20.5,,1.9,94,None,Dfc,Subarctic,Forest,20.5,2.1,,Summer,173864,0,
+RU_0031,3/6/2024,Russia,Moscow,22.6,68,2.3,97,None,Dfc,Subarctic,Taiga,22.6,3.6,74,Summer,767352,0,47
+RU_0032,4/6/2024,Russia,Saint Petersburg,,NA,0,89,None,Dfc,Continental,Forest,31.5,14.0,326,Summer,560360,0,44
+RU_0033,5/6/2024,Russia,Kazan,27.7,72,0,93,None,Dfb,Continental,Forest,30.3,10.3,126,Summer,162498,48579,61
+RU_0034,6/6/2024,Russia,Moscow,26.7,83,0,110,Heatwave,Dfc,Continental,Urban,26.7,9.4,342,Summer,3169321,36889,49
+RU_0035,7/6/2024,Russia,Saint Petersburg,20.4,56,0,113,None,Dfb,Continental,Taiga,20.4,3.3,93,Summer,572166,0,65
+RU_0036,8/6/2024,Russia,Kazan,24.1,63,0,61,None,Dfc,Subarctic,Forest,24.1,8.8,9,Summer,98349,0,36
+RU_0037,9/6/2024,Russia,Moscow,28.5,74,0,105,,Dfb,Continental,NA,32.3,12.6,292,Summer,1820702,0,40
+RU_0038,10/6/2024,Russia,Saint Petersburg,24.9,40,0,114,None,Dfc,Subarctic,Taiga,24.9,7.3,110,Summer,572510,0,37
+RU_0039,11/6/2024,Russia,Kazan,21.8,54,10.8,95,None,Dfc,Subarctic,Forest,21.8,10.6,88,Summer,"158,781","46,082",41
+RU_0040,2024-06-12,Russia,Moscow,26.3,67,0,84,Drought,Dfb,Continental,Taiga,26.3,13.2,138,Summer,"2,508,531","174,873",58
+RU_0041,13/6/2024,Russia,Saint Petersburg,20.3,42,4.0,112,None,Dfc,Continental,Urban,20.3,13.2,113,Summer,285325,0,58
+RU_0042,14/6/2024,Russia,Kazan,27.0,41,0,95,None,Dfb,Continental,Forest,26.9,11.1,351,Summer,133853,0,53
+RU_0043,15/6/2024,Russia,Moscow,20.9,77,3.7,88,None,Dfb,Continental,Taiga,20.9,5.9,176,Summer,1082103,0,46
+RU_0044,16/6/2024,Russia,Saint Petersburg,20.3,49,0,73,None,Dfc,Continental,Forest,20.3,7.1,316,Summer,738080,34615,50
+RU_0045,17/6/2024,Russia,Kazan,22.1,65,0,63,Heatwave,Dfc,Subarctic,Taiga,22.1,3.5,76,Summer,256067,0,53
+RU_0046,18/6/2024,Russia,Moscow,25.9,76,0,74,None,Dfb,NA,Taiga,25.9,6.7,NA,Summer,1384311,0,37
+RU_0047,19/6/2024,Russia,Saint Petersburg,20.6,43,0,88,None,Dfc,Subarctic,Urban,20.6,10.7,303,Summer,375933,0,54
+RU_0048,20/6/2024,Russia,Kazan,22.9,82,0,53,None,Dfc,Subarctic,,22.9,2.6,155,,120110,0,47
+RU_0049,21/6/2024,Russia,Moscow,27.5,64,0,113,None,Dfc,Continental,Urban,29.1,14.0,127,Summer,1746839,0,49
+RU_0050,22/6/2024,Russia,Saint Petersburg,28.0,42,15.7,93,None,Dfb,Subarctic,Taiga,27.8,11.5,200,Summer,575292,0,51
+RU_0051,23/6/2024,Russia,Kazan,24.0,63,NA,65,None,Dfc,Subarctic,Forest,24.0,5.7,NA,Summer,,39428,62
+RU_0052,24/6/2024,Russia,Moscow,26.6,41,3.4,70,None,Dfb,Subarctic,Urban,26.6,6.7,183,Summer,984015,40689,42
+RU_0053,25/6/2024,Russia,Saint Petersburg,25.3,71,0,102,Drought,Dfc,Continental,Urban,25.3,3.7,204,Summer,674676,1805467,69
+RU_0054,26/6/2024,Russia,Kazan,26.7,64,0,108,None,Dfb,Continental,Urban,26.7,14.9,275,Summer,129062,0,61
+RU_0055,27/6/2024,Russia,Moscow,26.0,73,0,100,None,Dfb,Subarctic,Forest,26.0,4.6,269,Summer,1771555,0,37
+RU_0056,28/6/2024,Russia,Saint Petersburg,22.2,78,0,102,None,Dfc,Subarctic,Urban,22.2,6.1,253,Summer,458557,0,55
+RU_0057,29/6/2024,Russia,Kazan,30.2,80,0,105,None,Dfb,Subarctic,Urban,38.3,10.8,193,Summer,187282,49002,60
+RU_0058,30/6/2024,Russia,Moscow,23.0,69,0,120,None,Dfc,Subarctic,Urban,23.0,13.1,274,Summer,1679086,4017,43
+RU_0059,1/7/2024,Russia,Saint Petersburg,25.4,53,0,80,None,Dfb,Continental,Taiga,25.4,10.4,253,Summer,800912,0,64
+RU_0060,2/7/2024,Russia,Kazan,24.1,82,0,92,None,Dfc,Subarctic,Urban,24.1,13.2,337,Summer,94016,0,42
+RU_0061,3/7/2024,Russia,Moscow,21.6,65,3.0,64,None,Dfb,Subarctic,Forest,,4.9,131,Summer,1124823,0,57
+RU_0062,4/7/2024,Russia,Saint Petersburg,22.0,NA,7.7,66,None,Dfb,Subarctic,Forest,22.0,2.3,137,NA,473368,0,60
+RU_0063,5/7/2024,Russia,Kazan,24.5,83,1.4,53,Heatwave,Dfb,Continental,Taiga,24.5,2.3,102,Summer,383697,3997577,86
+RU_0064,6/7/2024,Russia,Moscow,27.4,42,1.5,86,None,Dfc,Subarctic,Taiga,27.3,13.3,214,Summer,1548079,0,43
+RU_0065,7/7/2024,Russia,Saint Petersburg,25.5,65,2.1,105,None,Dfc,Continental,Urban,25.5,2.4,177,Summer,355630,28901,45
+RU_0066,8/7/2024,Russia,Kazan,20.4,77,0,87,None,Dfc,Subarctic,Forest,20.4,11.5,354,Summer,90797,0,56
+RU_0067,9/7/2024,Russia,Moscow,20.7,58,0,64,None,Dfb,Continental,Urban,20.7,7.6,301,Summer,1554123,44637,55
+RU_0068,10/7/2024,Russia,Saint Petersburg,25.6,49,3.2,99,None,Dfc,Continental,Forest,25.6,12.8,20,Summer,501964,0,35
+RU_0069,11/7/2024,Russia,Kazan,20.8,72,0,59,None,Dfc,Continental,Urban,20.8,2.0,8,Summer,63036,0,45
+RU_0070,12/7/2024,Russia,Moscow,27.4,52,0,102,Heatwave,Dfb,NA,Forest,28.0,14.0,146,Summer,2146294,391511,72
+RU_0071,13/7/2024,Russia,Saint Petersburg,NA,57,0,71,None,Dfb,Subarctic,Urban,22.8,6.2,323,Summer,680268,0,40
+RU_0072,14/7/2024,Russia,Kazan,20.4,64,0,56,None,Dfb,Continental,Urban,20.4,14.8,230,Summer,134887,12769,35
+RU_0073,15/7/2024,Russia,Moscow,22.8,36,0,80,None,Dfc,Subarctic,Forest,22.8,9.3,58,Summer,1084775,0,46
+RU_0074,16/7/2024,Russia,Saint Petersburg,26.4,74,1.6,77,None,Dfc,Continental,Forest,26.4,15.0,216,Summer,527703,25992,59
+RU_0075,17/7/2024,Russia,Kazan,27.0,,0,64,None,Dfc,Continental,Forest,,5.9,322,NA,180673,0,53
+RU_0076,18/7/2024,Russia,Moscow,23.9,38,0,88,None,Dfb,Continental,Urban,23.9,10.4,107,Summer,822887,0,60
+RU_0077,19/7/2024,Russia,Saint Petersburg,23.5,71,4.2,88,None,Dfb,Continental,Urban,23.5,8.3,21,Summer,283730,0,54
+RU_0078,20/7/2024,Russia,Kazan,27.9,68,4.0,111,None,Dfc,Continental,Urban,30.2,14.5,,NA,69868,0,NA
+RU_0079,21/7/2024,Russia,Moscow,21.4,45,0,107,None,Dfc,Subarctic,Urban,21.4,,261,Summer,992710,18185,44
+RU_0080,22/7/2024,Russia,Saint Petersburg,26.1,42,0,100,None,Dfb,Continental,Forest,26.1,14.1,349,Summer,741832,0,41
+RU_0081,23/7/2024,Russia,Kazan,29.0,78,0,101,Drought,Dfc,Subarctic,Urban,34.3,12.3,233,Summer,308048,116467,59
+RU_0082,24/7/2024,Russia,Moscow,22.6,74,23.8,81,None,Dfb,Subarctic,Urban,22.6,6.3,271,Summer,1773757,0,53
+RU_0083,25/7/2024,Russia,Saint Petersburg,NA,82,0,81,None,Dfc,Continental,Forest,26.9,14.2,185,NA,677235,0,35
+RU_0084,26/7/2024,Russia,Kazan,20.3,52,7.7,89,None,Dfb,Continental,Urban,20.3,10.0,217,Summer,73943,12556,53
+RU_0085,27/7/2024,Russia,Moscow,22.6,67,0,84,None,Dfb,Continental,Taiga,22.6,13.4,160,Summer,1420227,0,54
+RU_0086,28/7/2024,Russia,Saint Petersburg,28.0,64,0,103,None,Dfb,Subarctic,Taiga,29.9,13.6,236,Summer,398789,0,36
+RU_0087,29/7/2024,Russia,Kazan,30.0,85,0,98,None,Dfb,Subarctic,Forest,39.1,7.9,38,Summer,184318,0,39
+RU_0088,30/7/2024,Russia,Moscow,23.3,62,2.7,91,None,Dfc,Subarctic,Urban,23.3,14.7,349,Summer,1835968,0,57
+RU_0089,31/7/2024,Russia,Saint Petersburg,28.8,64,0,106,None,Dfb,Subarctic,Forest,31.3,5.5,324,Summer,774420,0,54
+RU_0090,1/8/2024,Russia,Kazan,22.6,83,7.0,77,None,Dfb,Continental,Urban,22.6,3.4,271,Summer,127553,0,40
+RU_0091,2/8/2024,Russia,Moscow,23.1,37,0,103,None,Dfc,Continental,Taiga,23.1,9.6,62,Summer,1755630,0,35
+RU_0092,3/8/2024,Russia,Saint Petersburg,29.0,64,0,115,None,Dfb,Subarctic,Forest,31.7,7.3,325,Summer,669055,0,48
+RU_0093,4/8/2024,Russia,Kazan,21.3,47,0,99,None,Dfb,Continental,Forest,21.3,14.8,32,Summer,140067,0,43
+RU_0094,5/8/2024,Russia,Moscow,29.8,43,1.6,121,None,Dfc,Subarctic,Forest,29.8,4.7,202,Summer,1864947,0,59
+RU_0095,6/8/2024,Russia,Saint Petersburg,23.3,75,24.6,,None,Dfc,Continental,Forest,23.3,6.9,300,NA,767354,27170,42
+RU_0096,7/8/2024,Russia,Kazan,30.0,43,0.5,96,None,Dfb,Subarctic,Urban,NA,7.0,186,Summer,127184,0,40
+RU_0097,8/8/2024,Russia,Moscow,24.1,35,2.9,120,None,Dfc,Subarctic,Urban,24.1,11.0,59,Summer,1550051,1896,42
+RU_0098,9/8/2024,Russia,Saint Petersburg,28.0,64,15.7,90,None,Dfb,Subarctic,Urban,29.9,7.1,343,Summer,319977,0,57
+RU_0099,10/8/2024,Russia,Kazan,26.7,82,0,55,None,Dfc,Subarctic,Urban,26.7,3.6,196,Summer,121764,0,37
+RU_0100,11/8/2024,Russia,Moscow,25.0,77,2.0,77,NA,Dfb,Continental,Forest,25.0,12.1,254,Summer,1420030,0,54
+RU_0101,12/8/2024,Russia,Saint Petersburg,22.9,50,22.1,110,None,Dfb,Continental,Urban,22.9,14.6,338,Summer,378034,0,46
+RU_0101,12/8/2024,Russia,Saint Petersburg,22.9,50,22.1,110,None,Dfb,Continental,Urban,22.9,14.6,338,Summer,378034,0,46
+RU_0102,13/8/2024,Russia,Kazan,20.5,48,0,77,None,Dfb,Subarctic,Forest,20.5,11.7,332,Summer,71668,0,46
+RU_0103,14/8/2024,Russia,Moscow,28.5,70,NA,97,None,Dfc,Subarctic,Taiga,31.7,5.2,138,Summer,"788,063",0,
+RU_0104,15/8/2024,Russia,Saint Petersburg,20.7,67,25.6,100,None,Dfc,Continental,Forest,20.7,12.0,240,Summer,645143,0,58
+RU_0105,16/8/2024,Russia,Kazan,24.8,58,1.3,84,None,Dfc,Continental,Taiga,24.8,5.8,235,Summer,176449,14517,39
+RU_0106,17/8/2024,Russia,Moscow,21.4,70,0,67,None,Dfc,Continental,Urban,21.4,5.5,77,Summer,1230939,9275,40
+RU_0106,17/8/2024,Russia,Moscow,21.4,70,0,67,None,Dfc,Continental,Urban,21.4,5.5,77,Summer,1230939,9275,40
+RU_0107,2024-08-18,Russia,Saint Petersburg,25.6,65,0,75,None,Dfc,Continental,Forest,25.6,12.1,61,Summer,483554,0,57
+RU_0108,19/8/2024,Russia,Kazan,26.4,48,0,95,None,Dfb,Subarctic,Taiga,26.4,3.8,191,Summer,129276,0,65
+RU_0109,20/8/2024,Russia,Moscow,28.9,36,25.0,106,None,Dfc,Continental,Urban,28.2,14.9,312,Summer,1721359,0,60
+RU_0110,21/8/2024,Russia,Saint Petersburg,26.2,75,0,114,None,Dfb,Continental,Urban,26.2,12.3,343,Summer,757182,0,36
+RU_0111,22/8/2024,Russia,Kazan,29.0,81,0,NA,Heatwave,Dfb,Subarctic,Urban,35.0,,193,Summer,523725,79680,73
+RU_0112,23/8/2024,Russia,Moscow,29.0,80,4.9,69,None,Dfb,Subarctic,Urban,34.7,6.4,230,Summer,1339904,33459,56
+RU_0113,2024-08-24,Russia,Saint Petersburg,27.7,41,2.5,100,None,Dfc,Continental,Taiga,27.5,9.8,181,Summer,424248,0,61
+RU_0114,25/8/2024,Russia,Kazan,NA,73,0,99,None,Dfb,Subarctic,Taiga,24.4,10.1,221,Summer,80550,26691,NA
+RU_0115,26/8/2024,Russia,Moscow,22.8,38,,,Heatwave,Dfc,Subarctic,Forest,22.8,9.2,33,Summer,2695604,87159,44
+RU_0116,27/8/2024,Russia,Saint Petersburg,28.3,41,0,78,None,Dfc,Continental,Urban,28.0,7.6,160,Summer,305702,0,60
+RU_0117,28/8/2024,Russia,Kazan,24.2,37,3.3,56,None,Dfc,Subarctic,Urban,24.2,2.5,260,Summer,111297,0,45
+RU_0118,29/8/2024,Russia,Moscow,23.2,41,1.9,115,None,Dfb,Subarctic,Urban,23.2,7.2,299,Summer,1295291,0,45
+RU_0119,30/8/2024,Russia,Saint Petersburg,25.1,78,2.7,90,Storm,Dfb,Subarctic,Urban,25.1,15.4,102,Summer,777226,228742,55
+RU_0120,31/8/2024,Russia,Kazan,30.2,42,0,82,None,Dfc,Continental,Urban,30.2,5.4,287,Summer,102813,0,56
+RU_0121,1/9/2024,Russia,Moscow,3.8,62,NA,111,None,Dfb,Subarctic,,3.8,5.6,233,Autumn,NA,0,40
+RU_0122,2/9/2024,Russia,Saint Petersburg,2.4,84,,107,,Dfc,NA,Taiga,2.4,11.5,282,Autumn,328699,0,42
+RU_0123,3/9/2024,Russia,Kazan,2.6,54,0.8,90,None,Dfb,Continental,Urban,2.6,13.2,239,Autumn,70030,47190,63
+RU_0124,4/9/2024,Russia,Moscow,6.1,40,23.6,90,None,Dfc,Continental,Taiga,6.1,13.7,345,Autumn,1345558,0,44
+RU_0125,5/9/2024,Russia,Saint Petersburg,-0.5,46,0,69,None,Dfb,Subarctic,Forest,-0.5,8.1,170,Autumn,753684,0,58
+RU_0126,6/9/2024,Russia,Kazan,,59,0,102,None,NA,Subarctic,Urban,-1.2,4.7,42,,93847,30829,48
+RU_0127,7/9/2024,Russia,Moscow,3.6,80,0,118,None,Dfc,Continental,Urban,3.6,11.0,38,Autumn,1543379,0,64
+RU_0128,8/9/2024,Russia,Saint Petersburg,1.9,55,0,119,None,Dfc,Continental,Forest,1.9,11.8,35,Autumn,602945,0,38
+RU_0129,9/9/2024,Russia,Kazan,0.2,72,0,62,None,Dfb,Continental,Urban,0.2,13.4,227,Autumn,81583,0,55
+RU_0130,10/9/2024,Russia,Moscow,1.6,,0,110,NA,,Subarctic,Taiga,1.6,2.7,219,Autumn,1055348,0,52
+RU_0131,11/9/2024,Russia,Saint Petersburg,-0.3,55,4.0,73,None,Dfb,Subarctic,Urban,-0.3,12.1,143,Autumn,791213,0,62
+RU_0131,11/9/2024,Russia,Saint Petersburg,-0.3,55,4.0,73,None,Dfb,Subarctic,Urban,-0.3,12.1,143,Autumn,791213,0,62
+RU_0132,12/9/2024,Russia,Kazan,0.2,72,0,73,None,Dfb,Subarctic,Taiga,0.2,14.6,77,Autumn,127865,0,39
+RU_0133,13/9/2024,Russia,Moscow,5.4,53,0,102,None,Dfc,Subarctic,Taiga,5.4,12.6,65,Autumn,1400764,0,59
+RU_0134,14/9/2024,Russia,Saint Petersburg,6.6,59,0,60,Flood,Dfb,Continental,Urban,6.6,6.0,58,Autumn,1388254,432383,87
+RU_0135,15/9/2024,Russia,Kazan,6.1,51,0,78,,,Continental,Taiga,6.1,12.4,148,Autumn,112497,32281,58
+RU_0136,16/9/2024,Russia,Moscow,1.1,41,0,111,None,Dfb,Continental,Urban,1.1,2.8,184,Autumn,1371137,0,63
+RU_0137,17/9/2024,Russia,Saint Petersburg,7.2,47,0,60,None,Dfc,Continental,Forest,7.2,8.2,266,Autumn,720949,0,56
+RU_0138,18/9/2024,Russia,Kazan,1.4,45,0,68,None,Dfc,Subarctic,Forest,1.4,7.9,279,Autumn,146617,0,45
+RU_0139,19/9/2024,Russia,Moscow,-0.5,45,0.6,120,None,Dfc,Subarctic,Forest,-0.5,2.4,287,Autumn,937755,0,37
+RU_0140,20/9/2024,Russia,Saint Petersburg,-0.7,55,0,118,None,Dfb,,,-0.7,9.3,199,Autumn,572252,20390,
+RU_0141,21/9/2024,Russia,Kazan,5.4,60,0,87,None,Dfc,Subarctic,Urban,5.4,12.2,296,Autumn,149756,0,55
+RU_0142,22/9/2024,Russia,Moscow,-1.8,39,0,87,None,Dfb,Subarctic,Taiga,-1.8,5.7,198,,906630,,56
+RU_0143,23/9/2024,Russia,Saint Petersburg,6.5,73,,115,None,Dfb,Subarctic,NA,NA,2.8,137,Autumn,540827,9065,53
+RU_0144,24/9/2024,Russia,Kazan,2.2,62,0.9,112,None,Dfb,Subarctic,Forest,2.2,11.5,149,Autumn,141473,0,48
+RU_0145,25/9/2024,Russia,Moscow,1.2,61,0,72,None,Dfc,Continental,Taiga,1.2,7.2,278,Autumn,1253602,0,52
+RU_0146,26/9/2024,Russia,Saint Petersburg,6.0,61,0,107,None,Dfb,Subarctic,Forest,6.0,10.3,248,Autumn,598702,0,61
+RU_0147,2024-09-27,Russia,Kazan,3.4,57,0,60,None,Dfc,Continental,Urban,3.4,14.9,162,Autumn,178216,0,65
+RU_0148,28/9/2024,Russia,Moscow,NA,45,0,94,NA,Dfb,Subarctic,Forest,,7.0,251,Autumn,2030236,1826187,46
+RU_0149,29/9/2024,Russia,Saint Petersburg,3.0,58,0,,None,Dfb,Continental,Forest,3.0,14.3,27,Autumn,NA,,46
+RU_0150,30/9/2024,Russia,Kazan,4.6,65,0,62,None,Dfb,Continental,Forest,4.6,2.5,234,Autumn,85712,28967,58
+RU_0151,1/10/2024,Russia,Moscow,6.6,72,14.0,81,None,Dfb,Continental,Taiga,NA,5.9,206,Autumn,"817,479",0,42
+RU_0152,2/10/2024,Russia,Saint Petersburg,5.6,45,3.6,95,None,Dfb,Subarctic,Urban,5.6,8.1,222,Autumn,384977,0,38
+RU_0153,3/10/2024,Russia,Kazan,-0.6,76,4.7,61,None,Dfc,Subarctic,Forest,-0.6,6.4,47,Autumn,175615,0,55
+RU_0154,4/10/2024,Russia,Moscow,7.4,75,0,85,None,Dfc,Subarctic,Taiga,7.4,4.7,177,Autumn,,23258,50
+RU_0155,5/10/2024,Russia,Saint Petersburg,2.7,36,0,64,Flood,Dfc,Continental,Taiga,2.7,2.0,244,Autumn,1276810,559107,73
+RU_0156,6/10/2024,Russia,Kazan,0.6,67,0,65,None,Dfc,Continental,Taiga,0.6,5.3,256,Autumn,161439,0,37
+RU_0157,7/10/2024,Russia,Moscow,1.0,73,19.2,122,None,Dfc,Subarctic,Taiga,1.0,10.4,15,Autumn,690110,0,59
+RU_0158,8/10/2024,Russia,Saint Petersburg,0.7,60,1.0,82,None,Dfc,Subarctic,Forest,0.7,2.1,157,Autumn,680714,0,52
+RU_0159,9/10/2024,Russia,Kazan,5.2,49,3.9,83,Storm,Dfc,Continental,Taiga,5.2,27.7,289,Autumn,515952,54896,58
+RU_0160,10/10/2024,Russia,Moscow,3.2,77,0,111,Storm,Dfb,Continental,Taiga,3.2,34.4,293,Autumn,5523968,810029,48
+RU_0161,11/10/2024,Russia,Saint Petersburg,3.4,61,0,79,Cold Wave,Dfb,Continental,Taiga,3.4,10.3,,Autumn,741017,0,52
+RU_0162,12/10/2024,Russia,Kazan,1.2,75,0,107,None,Dfc,Continental,Taiga,1.2,4.2,185,Autumn,127684,0,60
+RU_0163,13/10/2024,Russia,Moscow,6.6,35,0,94,Cold Wave,Dfc,Continental,Taiga,6.6,5.3,325,Autumn,2506610,5771,62
+RU_0164,14/10/2024,Russia,Saint Petersburg,3.6,85,0,61,NA,Dfb,Continental,Taiga,3.6,NA,205,Autumn,NA,37756,38
+RU_0165,15/10/2024,Russia,Kazan,7.7,41,0,95,Storm,Dfc,,Forest,7.7,24.5,,Autumn,278653,75522,NA
+RU_0165,15/10/2024,Russia,Kazan,7.7,41,0,95,Storm,Dfc,,Forest,7.7,24.5,,Autumn,278653,75522,NA
+RU_0166,16/10/2024,Russia,Moscow,-0.5,43,3.2,116,None,Dfb,Continental,Urban,-0.5,3.6,108,Autumn,1104906,0,48
+RU_0167,17/10/2024,Russia,Saint Petersburg,6.7,57,0,98,None,Dfc,Subarctic,Urban,6.7,8.5,NA,Autumn,,,41
+RU_0168,18/10/2024,Russia,Kazan,0.0,41,0,101,None,Dfb,Continental,Forest,0.0,5.4,166,Autumn,137549,0,53
+RU_0169,19/10/2024,Russia,Moscow,-0.3,79,0,109,None,Dfb,Continental,Forest,-0.3,3.2,173,Autumn,1696706,2188,40
+RU_0170,20/10/2024,Russia,Saint Petersburg,1.4,84,0.3,,,Dfb,Continental,Taiga,1.4,3.7,74,Autumn,388094,0,NA
+RU_0171,21/10/2024,Russia,Kazan,7.8,36,25.0,108,None,Dfb,Continental,Forest,7.8,8.2,195,Autumn,115348,26768,62
+RU_0172,22/10/2024,Russia,Moscow,-1.5,60,0.2,92,Flood,Dfc,Continental,Forest,-1.5,5.2,259,Autumn,5086875,1645526,58
+RU_0173,23/10/2024,Russia,Saint Petersburg,6.1,45,0,109,None,Dfc,Continental,Urban,6.1,11.6,86,Autumn,690070,0,49
+RU_0174,24/10/2024,Russia,Kazan,1.3,72,0,76,None,Dfc,Continental,Forest,1.3,11.6,217,Autumn,87912,0,42
+RU_0175,25/10/2024,Russia,Moscow,2.7,NA,5.0,74,None,Dfb,Continental,Urban,2.7,12.9,255,Autumn,1725368,0,35
+RU_0176,26/10/2024,Russia,Saint Petersburg,0.4,79,20.3,96,None,Dfc,Subarctic,Forest,0.4,9.9,117,Autumn,672013,0,64
+RU_0177,27/10/2024,Russia,Kazan,-1.9,54,0,71,Flood,Dfb,Subarctic,Urban,-1.9,11.8,243,Autumn,315080,0,60
+RU_0178,28/10/2024,Russia,Moscow,-1.1,36,0,100,Flood,Dfc,Subarctic,Urban,-1.1,6.7,147,Autumn,1829511,218214,63
+RU_0179,29/10/2024,Russia,Saint Petersburg,,,2.4,98,None,Dfc,Continental,Urban,7.7,,321,Autumn,670364,0,40
+RU_0180,30/10/2024,Russia,Kazan,4.0,53,0,71,None,Dfc,Continental,Urban,4.0,13.1,350,Autumn,94635,0,64
+RU_0181,31/10/2024,Russia,Moscow,3.7,,0,107,None,Dfc,Continental,Taiga,3.7,7.5,28,Autumn,1510373,0,
+RU_0182,1/11/2024,Russia,Saint Petersburg,2.3,45,4.5,92,None,Dfb,Subarctic,Taiga,2.3,13.3,358,Autumn,308411,0,60
+RU_0183,2/11/2024,Russia,Kazan,0.9,63,0,115,Storm,Dfc,Continental,Urban,0.9,20.2,347,Autumn,516348,466205,47
+RU_0184,3/11/2024,Russia,Moscow,0.2,36,4.4,115,None,Dfc,Subarctic,Forest,0.2,5.2,250,Autumn,900415,0,55
+RU_0185,4/11/2024,Russia,Saint Petersburg,4.7,77,1.7,69,None,Dfb,Subarctic,Taiga,4.7,8.9,138,Autumn,276609,0,46
+RU_0186,5/11/2024,Russia,Kazan,0.6,82,1.8,66,None,Dfb,Subarctic,Taiga,0.6,11.9,349,Autumn,105299,0,36
+RU_0187,6/11/2024,Russia,Moscow,5.5,45,0.5,115,None,Dfb,Continental,Taiga,5.5,9.9,347,Autumn,668398,0,43
+RU_0188,7/11/2024,Russia,Saint Petersburg,3.5,NA,NA,104,Storm,Dfc,Continental,Forest,3.5,27.2,332,Autumn,1091818,17376,68
+RU_0189,8/11/2024,Russia,Kazan,0.6,64,0,89,Cold Wave,Dfb,Continental,Urban,0.6,13.7,173,Autumn,292469,433888,70
+RU_0190,9/11/2024,Russia,Moscow,1.5,56,0.6,99,None,Dfb,Continental,Taiga,1.5,13.3,355,Autumn,1164285,0,48
+RU_0191,10/11/2024,Russia,Saint Petersburg,-0.3,68,0,75,None,Dfb,Subarctic,Forest,-0.3,11.4,12,Autumn,358920,0,40
+RU_0192,11/11/2024,Russia,Kazan,5.2,70,1.1,84,None,Dfb,Continental,Taiga,5.2,3.9,100,Autumn,64081,0,42
+RU_0193,12/11/2024,Russia,Moscow,2.1,69,21.6,106,None,Dfc,Subarctic,Taiga,2.1,9.8,221,Autumn,1649698,0,61
+RU_0194,13/11/2024,Russia,Saint Petersburg,5.4,NA,0.8,93,None,Dfb,Continental,Forest,5.4,5.7,145,Autumn,755590,NA,50
+RU_0195,14/11/2024,Russia,Kazan,3.9,79,0,103,None,Dfb,,Urban,3.9,12.3,235,Autumn,68390,0,45
+RU_0196,15/11/2024,Russia,Moscow,5.7,37,0,83,None,Dfc,Continental,Taiga,5.7,6.9,160,Autumn,1244000,23012,55
+RU_0197,16/11/2024,Russia,Saint Petersburg,1.5,NA,2.4,105,None,Dfb,Continental,Urban,1.5,2.4,26,Autumn,485563,0,59
+RU_0198,17/11/2024,Russia,Kazan,0.1,52,3.2,79,None,Dfb,Continental,Taiga,0.1,12.3,182,Autumn,133593,0,35
+RU_0199,18/11/2024,Russia,Moscow,2.2,36,18.7,113,None,Dfb,Subarctic,Forest,2.2,4.4,190,Autumn,834992,0,61
+RU_0200,19/11/2024,Russia,Saint Petersburg,-1.1,51,0,117,None,Dfc,Continental,Taiga,-1.1,14.9,NA,Autumn,"619,913",0,49
+RU_0201,20/11/2024,Russia,Kazan,5.4,NA,NA,93,None,,Continental,Forest,5.4,14.9,221,Autumn,180775,0,44
+RU_0201,20/11/2024,Russia,Kazan,5.4,NA,NA,93,None,,Continental,Forest,5.4,14.9,221,Autumn,180775,0,44
+RU_0202,21/11/2024,Russia,Moscow,5.3,65,0,110,None,Dfb,Subarctic,Forest,5.3,14.1,307,Autumn,1083845,9772,42
+RU_0203,22/11/2024,Russia,Saint Petersburg,6.2,65,0,79,None,Dfc,Continental,Taiga,6.2,13.0,294,Autumn,692937,47870,56
+RU_0204,23/11/2024,Russia,Kazan,6.6,65,0,74,None,Dfc,Subarctic,Urban,6.6,7.0,193,Autumn,"132,499",0,58
+RU_0205,24/11/2024,Russia,Moscow,8.0,60,9.9,84,None,Dfc,Continental,Taiga,8.0,6.2,179,Autumn,928677,0,39
+RU_0206,25/11/2024,Russia,Saint Petersburg,5.3,46,0,120,None,Dfb,Subarctic,Taiga,5.3,5.0,136,Autumn,611752,0,44
+RU_0207,26/11/2024,Russia,Kazan,-0.9,,13.9,105,Flood,NA,Continental,Taiga,-0.9,14.5,,Autumn,221364,410889,70
+RU_0208,27/11/2024,Russia,Moscow,4.3,81,4.6,92,None,Dfc,Subarctic,Forest,4.3,3.7,58,Autumn,1253088,41823,54
+RU_0209,28/11/2024,Russia,Saint Petersburg,4.1,80,2.0,100,Storm,Dfb,Subarctic,Urban,4.1,17.5,176,Autumn,1475809,30693,68
+RU_0210,29/11/2024,Russia,Kazan,1.2,42,0,83,None,Dfc,Continental,Urban,1.2,6.8,31,Autumn,179342,45795,58
+RU_0211,30/11/2024,Russia,Moscow,3.0,77,3.7,81,None,Dfc,Continental,Taiga,3.0,4.2,35,Autumn,1227607,0,50
+RU_0212,1/12/2024,Russia,Saint Petersburg,-15.5,47,0,86,None,Dfb,Continental,Taiga,-15.5,12.3,357,Winter,578419,47620,42
+RU_0212,1/12/2024,Russia,Saint Petersburg,-15.5,47,0,86,None,Dfb,Continental,Taiga,-15.5,12.3,357,Winter,578419,47620,42
+RU_0213,2/12/2024,Russia,Kazan,-13.6,80,0,64,Blizzard,Dfc,Subarctic,Forest,-13.6,19.9,111,Winter,181966,0,70
+RU_0214,3/12/2024,Russia,Moscow,-19.2,66,26.3,71,None,Dfb,Subarctic,Taiga,-19.2,4.2,234,Winter,1747541,0,48
+RU_0215,4/12/2024,Russia,Saint Petersburg,-18.9,64,2.3,63,Cold Wave,Dfb,Continental,Taiga,-18.9,13.4,354,Winter,,1973497,70
+RU_0216,5/12/2024,Russia,Kazan,-20,70,0,70,Blizzard,Dfc,Continental,Forest,-20,16.6,39,Winter,91021,116684,57
+RU_0217,6/12/2024,Russia,Moscow,-19.5,36,3.8,90,None,Dfb,Subarctic,Urban,-19.5,12.6,309,Winter,937880,0,53
+RU_0218,7/12/2024,Russia,Saint Petersburg,-17.2,74,0,105,None,Dfb,Continental,Urban,-17.2,2.6,201,Winter,501803,0,62
+RU_0219,8/12/2024,Russia,Kazan,-12.1,82,0,92,None,Dfb,Subarctic,Forest,-12.1,5.4,243,Winter,154073,45046,48
+RU_0220,9/12/2024,Russia,Moscow,-11.5,60,0,87,None,Dfb,Subarctic,Forest,-11.5,13.4,346,Winter,1313137,0,41
+RU_0221,10/12/2024,Russia,Saint Petersburg,-14.4,44,0,104,None,Dfb,Subarctic,Forest,-14.4,14.2,162,Winter,576870,43238,49
+RU_0222,11/12/2024,Russia,Kazan,-11.5,78,0,72,Blizzard,Dfc,Continental,Taiga,-11.5,17.9,40,Winter,433241,98760,93
+RU_0223,2024-12-12,Russia,Moscow,-16.8,73,5.0,100,Cold Wave,Dfc,Subarctic,,,NA,352,Winter,2151375,0,72
+RU_0224,13/12/2024,Russia,Saint Petersburg,-13.6,85,0,85,None,Dfb,Subarctic,Urban,-13.6,4.6,67,Winter,557835,0,56
+RU_0225,14/12/2024,Russia,Kazan,NA,62,3.1,94,None,Dfc,Subarctic,Urban,-11.6,13.6,238,Winter,104221,0,38
+RU_0226,15/12/2024,Russia,Moscow,-20,63,4.0,118,NA,Dfb,NA,Taiga,NA,13.6,141,Winter,1521870,0,41
+RU_0227,16/12/2024,Russia,Saint Petersburg,,47,3.3,86,Cold Wave,Dfb,Subarctic,Urban,-18.9,8.0,247,Winter,473659,0,63
+RU_0228,17/12/2024,Russia,Kazan,-13.7,50,1.0,60,None,Dfc,Subarctic,Forest,-13.7,10.2,276,Winter,117089,25780,55
+RU_0229,18/12/2024,Russia,Moscow,-19.7,44,2.5,114,Blizzard,Dfc,Continental,Taiga,-19.7,22.3,198,Winter,3893714,23573,60
+RU_0230,19/12/2024,Russia,Saint Petersburg,-18.4,44,0,67,None,Dfc,Continental,Urban,-18.4,11.5,154,Winter,801767,0,60
+RU_0231,20/12/2024,Russia,Kazan,-12.5,73,0,113,Blizzard,Dfc,Continental,Urban,-12.5,21.7,333,Winter,367010,0,91
+RU_0232,21/12/2024,Russia,Moscow,-13.3,63,0,,None,Dfb,Continental,Forest,-13.3,9.8,41,NA,1579188,0,36
+RU_0233,22/12/2024,Russia,Saint Petersburg,-15.6,57,25.0,94,Blizzard,Dfb,Continental,Forest,-15.6,22.4,24,Winter,1788575,3547061,60
+RU_0234,23/12/2024,Russia,Kazan,-14.1,64,2.9,73,None,Dfb,Continental,Forest,-14.1,11.4,178,Winter,"121,258",0,36
+RU_0235,24/12/2024,Russia,Moscow,-20,59,0,124,Blizzard,Dfb,Subarctic,Urban,-20,22.2,249,Winter,5105678,27203,85
+RU_0236,25/12/2024,Russia,Saint Petersburg,-11.6,59,0,87,None,Dfc,Continental,Urban,-11.6,2.5,301,Winter,549191,0,41
+RU_0237,26/12/2024,Russia,Kazan,-14.8,72,0,92,Cold Wave,Dfb,Continental,Urban,-14.8,9.9,221,Winter,237384,445948,96
+RU_0238,27/12/2024,Russia,Moscow,-19.8,37,0.2,76,None,Dfb,Continental,Forest,-19.8,4.4,185,Winter,1536631,0,56
+RU_0239,28/12/2024,Russia,Saint Petersburg,-20,84,0,88,Blizzard,Dfc,Subarctic,Taiga,-20,20.6,288,Winter,1021521,255835,73
+RU_0240,29/12/2024,Russia,Kazan,-12.1,39,2.7,96,Cold Wave,Dfc,Subarctic,Urban,-12.1,5.5,105,Winter,247065,317383,65
+RU_0240,29/12/2024,Russia,Kazan,-12.1,39,2.7,96,Cold Wave,Dfc,Subarctic,Urban,-12.1,5.5,105,Winter,247065,317383,65
+RU_0241,30/12/2024,Russia,Moscow,-20,43,0.9,89,Blizzard,Dfb,Continental,Urban,-20,19.0,95,Winter,5445988,56651,74
+RU_0242,31/12/2024,Russia,Saint Petersburg,-11.3,49,0,99,Cold Wave,Dfb,Subarctic,Taiga,-11.3,4.7,261,Winter,"1,147,610","82,265",52
+RU_0242,31/12/2024,Russia,Saint Petersburg,-11.3,49,0,99,Cold Wave,Dfb,Subarctic,Taiga,-11.3,4.7,261,Winter,"1,147,610","82,265",52
+RU_0243,1/1/2025,Russia,Kazan,-13.7,71,0,60,Cold Wave,Dfb,Subarctic,Urban,-13.7,4.9,17,Winter,"321,822",0,71
+RU_0244,2/1/2025,Russia,Moscow,-12.7,46,4.4,90,None,Dfb,Subarctic,Urban,-12.7,2.4,101,Winter,742202,0,42
+RU_0245,3/1/2025,Russia,Saint Petersburg,-12.6,58,0,109,None,Dfb,Continental,Forest,-12.6,10.9,329,Winter,440114,0,49
+RU_0246,4/1/2025,Russia,Kazan,-16.4,78,1.7,94,None,Dfb,Subarctic,Taiga,-16.4,11.6,83,Winter,134757,0,55
+RU_0247,5/1/2025,Russia,Moscow,-12.0,52,0,79,None,Dfb,,Taiga,-12.0,4.5,128,Winter,NA,0,37
+RU_0248,6/1/2025,Russia,Saint Petersburg,-17.6,60,26.0,97,None,Dfc,Continental,Taiga,-17.6,5.2,292,Winter,494970,0,49
+RU_0249,7/1/2025,Russia,Kazan,-17.5,69,1.2,70,Cold Wave,Dfb,Continental,Taiga,-17.5,7.8,146,Winter,126311,167906,71
+RU_0250,8/1/2025,Russia,Moscow,-16.2,40,14.9,75,Blizzard,Dfb,Continental,Taiga,-16.2,30.5,70,Winter,1802311,32235,93
+RU_0251,9/1/2025,Russia,Saint Petersburg,-11.5,74,0,91,None,,Continental,,-11.5,NA,169,Winter,755029,0,51
+RU_0252,10/1/2025,Russia,Kazan,-17.6,54,12.4,89,Cold Wave,Dfb,Subarctic,Taiga,-17.6,5.7,316,Winter,374535,0,72
+RU_0253,11/1/2025,Russia,Moscow,-16.1,44,3.3,90,None,Dfc,Continental,Forest,-16.1,7.3,164,Winter,1593243,0,65
+RU_0254,12/1/2025,Russia,Saint Petersburg,-16.7,80,3.4,121,None,Dfc,Subarctic,Forest,,,177,Winter,291528,NA,63
+RU_0255,13/1/2025,Russia,Kazan,-18.9,38,0,106,Cold Wave,Dfc,Continental,Forest,-18.9,10.1,324,Winter,292610,4992101,63
+RU_0256,14/1/2025,Russia,Moscow,-19.1,49,0,70,Blizzard,Dfb,NA,Taiga,-19.1,24.4,69,,2030540,61660,
+RU_0257,15/1/2025,Russia,Saint Petersburg,-12.7,73,1.6,66,None,Dfc,Continental,Taiga,-12.7,7.2,173,Winter,673453,37703,61
+RU_0258,16/1/2025,Russia,Kazan,-12.2,55,0,118,Blizzard,Dfb,Subarctic,Urban,NA,32.7,148,Winter,309781,2714973,67
+RU_0259,17/1/2025,Russia,Moscow,-19.1,40,0.5,125,None,Dfc,Continental,Forest,-19.1,8.6,195,Winter,997701,0,53
+RU_0260,18/1/2025,Russia,Saint Petersburg,-16.3,75,0,115,Blizzard,Dfb,Continental,Taiga,-16.3,27.8,28,Winter,1329261,2952288,41
+RU_0261,19/1/2025,Russia,Kazan,-13.7,66,28.7,99,Cold Wave,Dfb,Subarctic,Urban,-13.7,2.0,292,Winter,414128,0,85
+RU_0262,20/1/2025,Russia,Moscow,-11.9,40,0,130,Blizzard,Dfb,Continental,Urban,-11.9,16.5,228,Winter,1901523,1967504,64
+RU_0263,21/1/2025,Russia,Saint Petersburg,-19.6,60,0,78,None,Dfb,Continental,Taiga,-19.6,7.2,197,Winter,270434,0,40
+RU_0264,22/1/2025,Russia,Kazan,-13.9,73,0,115,Cold Wave,Dfc,Subarctic,,-13.9,7.6,7,Winter,NA,20253,88
+RU_0265,23/1/2025,Russia,Moscow,-17.6,51,0,123,None,Dfb,Subarctic,Forest,-17.6,11.1,114,Winter,1066959,0,58
+RU_0266,24/1/2025,Russia,Saint Petersburg,-11.5,45,1.6,74,None,Dfb,Subarctic,Taiga,-11.5,8.6,152,Winter,420848,0,58
+RU_0267,25/1/2025,Russia,Kazan,-15.3,70,0,70,None,Dfc,Continental,Urban,-15.3,2.5,262,Winter,168364,14607,37
+RU_0268,26/1/2025,Russia,Moscow,-19.4,64,0,126,Blizzard,Dfb,Continental,Urban,-19.4,32.2,110,Winter,2474063,234412,80
+RU_0269,27/1/2025,Russia,Saint Petersburg,,43,3.6,,NA,Dfb,Subarctic,Taiga,-14.9,6.4,141,Winter,826039,411599,51
+RU_0270,28/1/2025,Russia,Kazan,-17.3,40,0,114,NA,Dfb,Subarctic,Forest,-17.3,8.7,255,Winter,144951,0,37
+RU_0271,29/1/2025,Russia,Moscow,-13.8,43,2.4,116,None,Dfc,Continental,Taiga,-13.8,13.1,256,Winter,1609139,0,60
+RU_0272,30/1/2025,Russia,Saint Petersburg,-18.3,53,14.0,66,Cold Wave,Dfc,Continental,Forest,-18.3,4.9,344,Winter,2450440,54655,54
+RU_0273,31/1/2025,Russia,Kazan,-12.8,NA,16.0,107,None,Dfc,Continental,,-12.8,5.9,152,Winter,,0,63
+RU_0274,1/2/2025,Russia,Moscow,-12.0,84,1.0,130,None,Dfc,Subarctic,Urban,-12.0,9.7,328,Winter,663731,0,46
+RU_0275,2/2/2025,Russia,Saint Petersburg,-14.5,61,0,116,Cold Wave,Dfb,Subarctic,Forest,-14.5,5.9,156,Winter,780554,193691,62
+RU_0276,3/2/2025,Russia,Kazan,-12.9,61,0,92,Cold Wave,Dfb,Subarctic,Taiga,-12.9,5.5,134,Winter,414006,71107,75
+RU_0277,4/2/2025,Russia,Moscow,-13.6,69,0,116,None,Dfb,Subarctic,Taiga,-13.6,9.4,169,Winter,648098,0,40
+RU_0278,5/2/2025,Russia,Saint Petersburg,-11.3,40,0,100,Blizzard,Dfc,Subarctic,Taiga,-11.3,31.7,88,Winter,2247459,310234,66
+RU_0279,6/2/2025,Russia,Kazan,-18.4,77,3.7,109,Cold Wave,Dfb,Subarctic,Forest,-18.4,13.7,93,Winter,306759,4267599,79
+RU_0280,7/2/2025,Russia,Moscow,-18.5,36,0,71,None,Dfb,Subarctic,Urban,-18.5,9.3,57,Winter,850468,0,45
+RU_0281,8/2/2025,Russia,Saint Petersburg,-16.2,,0,118,None,Dfb,Subarctic,Urban,-16.2,11.3,331,Winter,300729,0,NA
+RU_0282,9/2/2025,Russia,Kazan,-15.0,43,0,87,None,Dfb,Continental,Urban,-15.0,6.9,212,Winter,107238,0,62
+RU_0283,10/2/2025,Russia,Moscow,-18.2,78,0.4,84,None,Dfc,Continental,Taiga,-18.2,3.3,354,Winter,1098472,0,36
+RU_0284,11/2/2025,Russia,Saint Petersburg,-12.7,36,3.1,83,None,Dfb,Continental,Taiga,-12.7,4.2,84,Winter,333395,0,54
+RU_0285,12/2/2025,Russia,Kazan,-16.3,65,0,73,None,Dfb,Subarctic,Forest,-16.3,8.9,286,Winter,62961,0,55
+RU_0286,13/2/2025,Russia,Moscow,-13.7,61,0,114,None,Dfc,Continental,Urban,-13.7,3.0,339,Winter,1105314,39123,52
+RU_0287,14/2/2025,Russia,Saint Petersburg,-15.3,72,3.6,66,None,Dfb,Subarctic,Taiga,-15.3,13.7,207,Winter,419884,26181,54
+RU_0288,15/2/2025,Russia,Kazan,-18.1,64,0,64,Cold Wave,Dfb,Subarctic,Urban,-18.1,8.6,11,Winter,192923,0,92
+RU_0288,15/2/2025,Russia,Kazan,-18.1,64,0,64,Cold Wave,Dfb,Subarctic,Urban,-18.1,8.6,11,Winter,192923,0,92
+RU_0289,16/2/2025,Russia,Moscow,-18.9,80,0,89,None,Dfb,Continental,Forest,-18.9,9.9,145,Winter,1099882,31992,55
+RU_0290,17/2/2025,Russia,Saint Petersburg,-17.8,52,NA,121,Blizzard,Dfc,Subarctic,Forest,-17.8,22.2,NA,Winter,"921,789","235,839",59
+RU_0291,18/2/2025,Russia,Kazan,,54,17.6,80,Blizzard,Dfc,Subarctic,Forest,-16.1,24.1,181,Winter,165739,229789,33
+RU_0292,19/2/2025,Russia,Moscow,-12.2,71,1.5,118,Blizzard,Dfc,Subarctic,Forest,-12.2,33.2,224,Winter,2171018,484255,66
+RU_0293,20/2/2025,Russia,Saint Petersburg,-15.1,39,0,113,None,Dfc,Continental,Taiga,-15.1,8.6,207,Winter,275741,0,53
+RU_0294,21/2/2025,Russia,Kazan,-17.1,62,0,65,Blizzard,Dfc,Subarctic,Taiga,,18.5,340,Winter,456160,499246,
+RU_0295,22/2/2025,Russia,Moscow,-13.9,64,0,102,Blizzard,Dfc,Continental,Urban,,19.2,187,Winter,2515115,26244,78
+RU_0296,23/2/2025,Russia,Saint Petersburg,-20,50,12.1,113,Blizzard,Dfc,Subarctic,Urban,,29.3,61,Winter,1403489,NA,
+RU_0297,24/2/2025,Russia,Kazan,-19.8,38,0,98,Cold Wave,Dfb,Subarctic,Urban,-19.8,4.6,177,Winter,236220,104655,64
+RU_0298,2025-02-25,Russia,Moscow,-13.4,83,0,110,Blizzard,Dfc,Subarctic,,-13.4,21.4,NA,Winter,2046866,NA,41
+RU_0299,26/2/2025,Russia,Saint Petersburg,-19.9,57,11.4,82,Cold Wave,Dfb,Continental,Forest,-19.9,14.2,224,Winter,691677,312200,63
+RU_0299,26/2/2025,Russia,Saint Petersburg,-19.9,57,11.4,82,Cold Wave,Dfb,Continental,Forest,-19.9,14.2,224,Winter,691677,312200,63
+RU_0300,27/2/2025,Russia,Kazan,-20,56,0,80,Cold Wave,Dfc,Continental,Taiga,-20,4.8,315,Winter,280261,477755,60
+RU_0301,28/2/2025,Russia,Moscow,-17.2,36,4.6,85,None,Dfb,Continental,Forest,-17.2,6.7,89,Winter,719906,0,64
+RU_0302,1/3/2025,Russia,Saint Petersburg,0.6,43,29.3,123,Dust Storm,Dfc,Continental,Taiga,0.6,2.6,129,Spring,734928,6004,52
+RU_0303,2/3/2025,Russia,Kazan,-4.8,79,0,110,None,Dfc,Continental,Urban,-4.8,4.2,328,Spring,123743,0,59
+RU_0304,3/3/2025,Russia,Moscow,-2.8,75,0,73,None,Dfb,Subarctic,Forest,-2.8,14.3,23,Spring,794456,27796,45
+RU_0305,4/3/2025,Russia,Saint Petersburg,-6.2,75,0,122,None,Dfc,Subarctic,Taiga,-6.2,5.1,13,Spring,671471,0,58
+RU_0306,5/3/2025,Russia,Kazan,-3.1,47,8.7,107,Storm,Dfc,Subarctic,Forest,-3.1,32.7,316,Spring,308034,7982,54
+RU_0307,6/3/2025,Russia,Moscow,-4.9,42,0.7,80,None,Dfb,Subarctic,Forest,-4.9,8.2,329,Spring,1310491,0,38
+RU_0308,7/3/2025,Russia,Saint Petersburg,1.9,50,0,126,Flood,Dfb,,Forest,1.9,12.5,205,Spring,1526386,NA,77
+RU_0309,8/3/2025,Russia,Kazan,2.4,56,0,78,None,Dfc,,Forest,2.4,10.5,102,Spring,114314,0,NA
+RU_0310,9/3/2025,Russia,Moscow,-3.5,56,0,76,None,Dfc,Continental,Taiga,-3.5,11.5,76,Spring,1678566,0,58
+RU_0311,10/3/2025,Russia,Saint Petersburg,2.7,67,25.1,95,None,Dfb,Subarctic,Urban,2.7,10.3,25,Spring,731625,0,50
+RU_0312,11/3/2025,Russia,Kazan,1.6,39,0,97,None,Dfc,Continental,Forest,,8.8,13,Spring,99932,,61
+RU_0313,12/3/2025,Russia,Moscow,-2.1,62,0.8,79,None,Dfc,Continental,Taiga,-2.1,14.1,217,Spring,1436526,0,56
+RU_0314,13/3/2025,Russia,Saint Petersburg,-2.1,81,0,71,None,Dfb,Continental,Forest,-2.1,11.2,224,Spring,626397,0,39
+RU_0315,14/3/2025,Russia,Kazan,2.0,82,0,97,None,Dfb,Continental,Forest,2.0,11.6,213,Spring,156687,17602,45
+RU_0316,15/3/2025,Russia,Moscow,-6.3,73,4.4,74,None,Dfb,Continental,Forest,-6.3,7.7,263,Spring,1823092,0,45
+RU_0316,15/3/2025,Russia,Moscow,-6.3,73,4.4,74,None,Dfb,Continental,Forest,-6.3,7.7,263,Spring,1823092,0,45
+RU_0317,16/3/2025,Russia,Saint Petersburg,3.3,64,0,126,None,Dfb,Continental,Urban,3.3,NA,183,Spring,"520,692",0,46
+RU_0318,17/3/2025,Russia,Kazan,0.1,39,0,90,None,Dfc,Continental,Urban,0.1,13.7,130,Spring,"157,808",0,53
+RU_0319,18/3/2025,Russia,Moscow,-1.1,60,0,107,None,Dfc,Subarctic,Taiga,-1.1,9.8,105,Spring,1716496,27008,54
+RU_0320,19/3/2025,Russia,Saint Petersburg,-4.5,54,0,116,None,Dfb,Subarctic,Forest,-4.5,11.1,230,Spring,305944,0,48
+RU_0321,20/3/2025,Russia,Kazan,1.1,81,14.5,83,None,Dfb,Continental,Urban,1.1,14.0,7,Spring,74779,27968,65
+RU_0322,21/3/2025,Russia,Moscow,2.1,71,0,76,None,Dfc,Continental,Urban,2.1,13.9,235,Spring,"954,505","48,593",56
+RU_0323,22/3/2025,Russia,Saint Petersburg,-1.8,40,6.4,114,None,Dfc,Subarctic,Urban,-1.8,9.9,347,Spring,585039,0,63
+RU_0323,22/3/2025,Russia,Saint Petersburg,-1.8,40,6.4,114,None,Dfc,Subarctic,Urban,-1.8,9.9,347,Spring,585039,0,63
+RU_0324,23/3/2025,Russia,Kazan,2.7,43,0,97,None,Dfb,Subarctic,Urban,2.7,5.5,214,Spring,161967,0,36
+RU_0325,24/3/2025,Russia,Moscow,0.6,84,0,85,None,Dfb,Subarctic,Urban,0.6,12.4,196,Spring,829359,0,43
+RU_0326,25/3/2025,Russia,Saint Petersburg,-2.3,47,0,99,None,Dfc,Subarctic,Forest,-2.3,10.2,72,Spring,715536,0,56
+RU_0327,26/3/2025,Russia,Kazan,-2.6,76,2.1,103,Dust Storm,Dfb,Subarctic,Taiga,-2.6,7.1,345,Spring,427658,0,77
+RU_0328,27/3/2025,Russia,Moscow,-0.8,53,1.4,82,None,Dfb,Continental,Urban,-0.8,14.7,297,Spring,1646118,NA,40
+RU_0329,28/3/2025,Russia,Saint Petersburg,-0.5,47,1.6,88,None,Dfc,Subarctic,Taiga,-0.5,14.7,255,Spring,672471,0,65
+RU_0330,2025-03-29,Russia,Kazan,-4.6,78,0,115,None,Dfb,Subarctic,Taiga,-4.6,NA,328,Spring,114022,48252,36
+RU_0331,30/3/2025,Russia,Moscow,0.7,53,4.8,108,None,Dfb,Subarctic,Forest,0.7,5.9,122,Spring,1502369,35377,51
+RU_0332,31/3/2025,Russia,Saint Petersburg,1.1,39,0,126,None,Dfb,Continental,Taiga,1.1,8.1,89,Spring,745943,0,45
+RU_0333,1/4/2025,Russia,Kazan,1.2,45,0,81,NA,Dfb,Continental,Forest,NA,9.1,,Spring,363088,27636,71
+RU_0334,2025-04-02,Russia,Moscow,-1.3,44,0.7,83,None,Dfc,Subarctic,Urban,-1.3,8.0,141,Spring,1801175,0,48
+RU_0334,2025-04-02,Russia,Moscow,-1.3,44,0.7,83,None,Dfc,Subarctic,Urban,-1.3,8.0,141,Spring,1801175,0,48
+RU_0335,3/4/2025,Russia,Saint Petersburg,-2.9,63,0,88,None,Dfc,Subarctic,Urban,-2.9,5.2,130,Spring,805078,0,42
+RU_0336,4/4/2025,Russia,Kazan,0.2,,0,108,None,Dfb,Continental,Forest,0.2,3.9,130,Spring,119620,0,
+RU_0337,5/4/2025,Russia,Moscow,1.3,66,0,126,Flood,Dfb,Continental,Urban,1.3,12.7,134,Spring,3823001,1841194,52
+RU_0338,6/4/2025,Russia,Saint Petersburg,-2.1,74,4.8,126,None,Dfb,Subarctic,Urban,-2.1,8.4,342,Spring,478876,0,45
+RU_0339,7/4/2025,Russia,Kazan,0.6,49,18.1,103,None,Dfc,Subarctic,Urban,0.6,6.1,3,Spring,76287,0,62
+RU_0340,8/4/2025,Russia,Moscow,0.4,44,27.4,75,Storm,Dfc,Subarctic,Urban,0.4,33.3,322,Spring,3228081,125360,81
+RU_0341,9/4/2025,Russia,Saint Petersburg,1.9,46,0,98,None,Dfc,Continental,Forest,1.9,3.2,257,Spring,511365,8543,39
+RU_0342,10/4/2025,Russia,Kazan,-1.3,48,0,97,None,Dfb,Subarctic,Taiga,-1.3,2.4,66,Spring,122460,0,61
+RU_0343,11/4/2025,Russia,Moscow,-0.7,83,14.6,109,None,Dfc,Continental,Urban,-0.7,10.7,100,Spring,"704,511",0,47
+RU_0344,12/4/2025,Russia,Saint Petersburg,-4.9,50,0,69,Storm,Dfc,Continental,Forest,-4.9,28.6,231,Spring,1939028,13489,80
+RU_0345,13/4/2025,Russia,Kazan,-0.5,NA,0,121,None,Dfb,Subarctic,Urban,-0.5,6.4,320,NA,106867,29574,35
+RU_0346,14/4/2025,Russia,Moscow,-6.2,59,0,103,None,Dfb,Continental,Forest,-6.2,2.8,31,Spring,1533631,0,58
+RU_0347,15/4/2025,Russia,Saint Petersburg,-3.1,44,1.8,106,None,Dfc,Continental,Taiga,-3.1,5.5,1,Spring,428184,0,65
+RU_0348,16/4/2025,Russia,Kazan,-1.6,36,0,66,None,Dfb,Continental,Forest,-1.6,7.8,355,Spring,94208,0,47
+RU_0349,17/4/2025,Russia,Moscow,-1.8,56,0,94,None,Dfc,Continental,Taiga,-1.8,14.6,151,Spring,1503925,0,38
+RU_0350,18/4/2025,Russia,Saint Petersburg,-4.6,NA,0,127,None,Dfb,Continental,Taiga,-4.6,NA,148,,616308,0,54
+RU_0351,19/4/2025,Russia,Kazan,-5.4,83,0,71,None,Dfc,Continental,Forest,-5.4,13.3,6,Spring,134141,0,41
+RU_0352,20/4/2025,Russia,Moscow,-2.1,76,0,74,None,Dfb,Continental,Taiga,-2.1,3.6,99,Spring,1058441,,64
+RU_0353,21/4/2025,Russia,Saint Petersburg,0.8,74,0,111,None,Dfc,Subarctic,,0.8,3.4,291,Spring,"348,466",0,44
+RU_0354,22/4/2025,Russia,Kazan,-0.4,,0,111,None,Dfb,Subarctic,Forest,-0.4,NA,52,Spring,112113,0,62
+RU_0355,23/4/2025,Russia,Moscow,-2.5,81,0,117,None,Dfb,Subarctic,Taiga,-2.5,10.9,219,Spring,1640614,48322,38
+RU_0356,24/4/2025,Russia,Saint Petersburg,2.2,64,0,78,None,Dfc,Continental,Urban,2.2,13.9,335,Spring,405917,0,65
+RU_0357,25/4/2025,Russia,Kazan,-2.2,64,0,74,None,Dfb,Subarctic,Forest,NA,12.6,327,Spring,122281,31301,62
+RU_0358,26/4/2025,Russia,Moscow,-1.6,81,6.5,85,None,Dfb,Subarctic,Urban,-1.6,7.9,288,Spring,819875,0,54
+RU_0359,27/4/2025,Russia,Saint Petersburg,-2.7,56,0,113,None,Dfc,Continental,Forest,-2.7,2.3,29,Spring,275989,0,42
+RU_0360,28/4/2025,Russia,Kazan,-0.8,80,0,105,None,Dfc,Continental,Taiga,-0.8,4.8,342,Spring,163692,0,53
+RU_0361,29/4/2025,Russia,Moscow,-4.1,71,0,84,None,Dfb,Subarctic,Forest,-4.1,8.6,281,Spring,737575,31668,36
+RU_0362,30/4/2025,Russia,Saint Petersburg,-0.6,80,26.6,83,None,Dfc,Subarctic,Forest,-0.6,6.1,212,Spring,646795,0,54
+RU_0363,1/5/2025,Russia,Kazan,-3.3,NA,0,82,Storm,Dfc,,Urban,-3.3,NA,6,Spring,460462,466914,91
+RU_0364,2/5/2025,Russia,Moscow,-3.5,67,3.2,91,None,Dfc,Subarctic,Urban,-3.5,4.9,,Spring,NA,0,57
+RU_0365,3/5/2025,Russia,Saint Petersburg,-1.1,47,,126,None,Dfc,Subarctic,Forest,-1.1,8.0,90,Spring,513452,0,56
+RU_0366,4/5/2025,Russia,Kazan,-4.9,66,0,82,None,Dfb,Continental,Taiga,-4.9,5.2,318,Spring,63691,9360,44
+RU_0367,5/5/2025,Russia,Moscow,1.1,59,0,134,None,Dfc,Subarctic,Forest,1.1,2.7,284,Spring,1008869,0,60
+RU_0368,2025-05-06,Russia,Saint Petersburg,-2.8,68,,74,NA,Dfc,Subarctic,Taiga,,14.0,349,Spring,640966,0,43
+RU_0369,7/5/2025,Russia,Kazan,-0.3,53,0,95,Flood,Dfb,Subarctic,Taiga,-0.3,9.1,190,Spring,315781,0,62
+RU_0370,8/5/2025,Russia,Moscow,-1.9,84,23.4,91,None,Dfb,Subarctic,Taiga,-1.9,5.8,169,Spring,1442245,0,48
+RU_0371,9/5/2025,Russia,Saint Petersburg,3.6,47,0,125,None,Dfb,Continental,Urban,3.6,11.5,333,Spring,752206,0,46
+RU_0372,10/5/2025,Russia,Kazan,0.9,63,NA,66,None,Dfb,Continental,Urban,0.9,6.6,294,Spring,167621,0,56
+RU_0373,11/5/2025,Russia,Moscow,-2.6,74,0.5,120,None,Dfc,Subarctic,Forest,-2.6,4.4,154,Spring,NA,0,40
+RU_0374,12/5/2025,Russia,Saint Petersburg,-2.9,75,0,116,Storm,Dfb,Continental,Forest,-2.9,29.6,225,Spring,2530843,0,65
+RU_0375,13/5/2025,Russia,Kazan,0.3,61,0,74,None,Dfb,Continental,Urban,0.3,13.0,95,Spring,143977,0,53
+RU_0376,14/5/2025,Russia,Moscow,-2.3,67,0,103,None,Dfc,Subarctic,Urban,-2.3,11.8,244,Spring,1770198,30566,47
+RU_0377,15/5/2025,Russia,Saint Petersburg,3.2,65,1.5,109,Flood,Dfc,Continental,Forest,3.2,9.0,110,Spring,1225487,49317,68
+RU_0377,15/5/2025,Russia,Saint Petersburg,3.2,65,1.5,109,Flood,Dfc,Continental,Forest,3.2,9.0,110,Spring,1225487,49317,68
+RU_0378,16/5/2025,Russia,Kazan,-1.2,60,0,88,None,Dfb,Continental,Taiga,-1.2,2.0,312,Spring,149663,4434,41
+RU_0379,17/5/2025,Russia,Moscow,2.3,51,0,124,None,Dfc,Continental,Forest,2.3,8.1,248,Spring,1765662,0,46
+RU_0380,18/5/2025,Russia,Saint Petersburg,0.1,48,2.6,118,None,Dfb,Continental,Taiga,0.1,4.0,328,Spring,474359,0,39
+RU_0381,19/5/2025,Russia,Kazan,-1.6,41,0,103,None,Dfc,Subarctic,Urban,-1.6,8.0,227,Spring,70833,0,47
+RU_0382,20/5/2025,Russia,Moscow,0.5,43,0,114,None,Dfc,Subarctic,Urban,0.5,5.1,54,Spring,1858417,0,48
+RU_0383,21/5/2025,Russia,Saint Petersburg,-1.3,75,0,83,,Dfc,,Taiga,NA,3.6,79,Spring,765605,0,41
+RU_0384,22/5/2025,Russia,Kazan,3.2,78,28.5,66,None,Dfc,Continental,Urban,3.2,10.8,246,Spring,148681,0,40
+RU_0385,23/5/2025,Russia,Moscow,0.1,61,0,114,None,Dfb,Continental,Urban,0.1,5.2,267,Spring,1347061,32030,40
+RU_0386,24/5/2025,Russia,Saint Petersburg,-5.2,38,0,86,None,Dfc,Subarctic,Urban,-5.2,14.3,308,Spring,786580,0,49
+RU_0387,25/5/2025,Russia,Kazan,-2.5,52,0,76,Dust Storm,Dfc,Subarctic,Forest,-2.5,10.0,105,Spring,330018,18522,49
+RU_0388,2025-05-26,Russia,Moscow,-2.6,46,1.7,101,None,Dfc,Continental,Taiga,-2.6,2.4,118,Spring,1697528,0,50
+RU_0389,27/5/2025,Russia,Saint Petersburg,NA,80,0,100,None,Dfc,,Forest,-4.6,5.4,NA,Spring,595188,0,58
+RU_0390,28/5/2025,Russia,Kazan,1.6,47,0,95,None,Dfc,Subarctic,Forest,1.6,2.1,70,Spring,164619,0,37
+RU_0391,29/5/2025,Russia,Moscow,-3.7,,0,90,None,NA,Continental,Taiga,-3.7,5.5,26,Spring,818054,26570,
+RU_0392,30/5/2025,Russia,Saint Petersburg,1.5,49,0,107,None,Dfc,Continental,Urban,1.5,6.8,154,Spring,719590,0,55
+RU_0393,31/5/2025,Russia,Kazan,-2.6,62,0,66,None,Dfb,Subarctic,Forest,-2.6,3.5,46,Spring,149391,0,49
+RU_0394,1/6/2025,Russia,Moscow,23.2,36,0,105,None,Dfb,Continental,Urban,23.2,13.5,297,Summer,1843562,0,47
+RU_0395,2/6/2025,Russia,Saint Petersburg,24.6,44,1.4,119,None,Dfc,Subarctic,Forest,24.6,11.1,282,Summer,776438,0,54
+RU_0396,2025-06-03,Russia,Kazan,30.2,36,0.4,81,None,Dfc,Subarctic,Taiga,29.5,9.3,195,Summer,135134,0,51
+RU_0397,4/6/2025,Russia,Moscow,21.4,45,3.6,111,None,Dfc,Continental,Taiga,21.4,10.8,236,Summer,1031220,0,45
+RU_0398,5/6/2025,Russia,Saint Petersburg,23.3,71,0,81,None,Dfc,Subarctic,Forest,23.3,14.5,121,Summer,775825,49991,NA
+RU_0399,6/6/2025,Russia,Kazan,26.1,68,0,95,None,Dfb,Continental,Taiga,26.1,2.7,3,Summer,148182,0,64
+RU_0400,7/6/2025,Russia,Moscow,29.2,37,0,126,None,Dfc,Subarctic,Urban,28.5,7.4,94,Summer,1845250,0,39
+RU_0401,8/6/2025,Russia,Saint Petersburg,22.8,50,0,88,None,Dfb,Subarctic,Urban,,11.8,,Summer,571201,0,NA
+RU_0402,9/6/2025,Russia,Kazan,25.7,43,0,112,None,Dfb,Continental,Urban,25.7,11.4,203,Summer,135185,0,59
+RU_0403,10/6/2025,Russia,Moscow,30.6,82,0,110,None,Dfc,Continental,Forest,40.2,13.7,90,Summer,787740,0,42
+RU_0404,2025-06-11,Russia,Saint Petersburg,27.2,70,0,112,Heatwave,Dfb,Subarctic,Forest,29.2,7.1,213,Summer,415686,0,50
+RU_0405,12/6/2025,Russia,Kazan,27.0,54,0,125,None,Dfc,Continental,Forest,27.7,5.5,316,Summer,137190,0,47
+RU_0406,13/6/2025,Russia,Moscow,24.3,56,1.8,130,None,Dfc,Subarctic,Urban,24.3,6.6,57,Summer,811769,0,44
+RU_0407,14/6/2025,Russia,Saint Petersburg,29.5,39,0,124,None,Dfc,Subarctic,Forest,29.0,3.2,116,Summer,806241,0,39
+RU_0408,15/6/2025,Russia,Kazan,23.6,43,4.7,111,,Dfc,Subarctic,Urban,23.6,13.1,306,Summer,"186,491",0,51
+RU_0409,16/6/2025,Russia,Moscow,28.9,66,2.6,128,None,Dfc,Continental,Forest,31.8,4.7,4,Summer,"1,049,337",0,46
+RU_0410,17/6/2025,Russia,Saint Petersburg,29.8,55,23.9,105,None,Dfb,Continental,Urban,31.6,5.7,204,Summer,737710,0,37
+RU_0411,18/6/2025,Russia,Kazan,22.6,58,0,113,None,Dfb,Continental,Urban,22.6,9.2,,Summer,68597,0,65
+RU_0412,19/6/2025,Russia,Moscow,31.1,67,2.8,107,Storm,Dfb,Continental,Taiga,37.0,30.5,22,Summer,1615396,90213,96
+RU_0413,20/6/2025,Russia,Saint Petersburg,23.8,38,0,118,None,NA,Continental,Taiga,23.8,8.1,NA,,563809,0,43
+RU_0414,21/6/2025,Russia,Kazan,24.2,47,0,124,None,Dfb,Continental,Urban,24.2,13.8,250,Summer,186255,0,63
+RU_0415,22/6/2025,Russia,Moscow,30.7,80,0,114,None,Dfc,Continental,Taiga,39.9,8.8,191,Summer,1531051,0,35
+RU_0416,23/6/2025,Russia,Saint Petersburg,28.4,50,0,71,Heatwave,Dfc,Subarctic,,28.9,13.2,182,Summer,NA,589826,NA
+RU_0417,2025-06-24,Russia,Kazan,29.1,66,0,96,None,Dfb,Continental,Forest,32.2,NA,249,Summer,99133,0,65
+RU_0418,25/6/2025,Russia,Moscow,23.0,41,16.6,117,Drought,Dfc,Continental,Urban,23.0,11.8,314,Summer,3727635,32465,74
+RU_0419,26/6/2025,Russia,Saint Petersburg,21.8,68,0,94,None,Dfb,Subarctic,Urban,21.8,6.1,106,Summer,398237,0,53
+RU_0420,27/6/2025,Russia,Kazan,22.9,79,0,95,None,Dfb,Continental,Forest,22.9,14.0,56,Summer,117940,0,43
+RU_0421,28/6/2025,Russia,Moscow,31.0,37,0,113,None,Dfc,Continental,Forest,30.5,2.3,279,Summer,1071895,29434,59
+RU_0422,29/6/2025,Russia,Saint Petersburg,29.0,52,12.1,125,None,Dfc,Subarctic,Forest,29.9,12.8,11,Summer,"689,840",0,37
+RU_0423,30/6/2025,Russia,Kazan,21.5,76,10.7,81,None,Dfb,Continental,Urban,21.5,14.2,118,Summer,109015,0,57
+RU_0424,2025-07-01,Russia,Moscow,23.4,60,0,88,None,Dfc,Continental,Urban,23.4,8.7,262,Summer,1562452,4469,58
+RU_0424,2025-07-01,Russia,Moscow,23.4,60,0,88,None,Dfc,Continental,Urban,23.4,8.7,262,Summer,1562452,4469,58
+RU_0425,2/7/2025,Russia,Saint Petersburg,22.9,63,0,128,None,Dfb,Continental,Forest,22.9,13.4,32,Summer,543926,0,50
+RU_0426,3/7/2025,Russia,Kazan,27.4,44,0,124,None,Dfc,Continental,Urban,27.4,13.0,48,Summer,159933,0,57
+RU_0427,4/7/2025,Russia,Moscow,24.0,80,0,124,None,Dfc,Subarctic,Taiga,24.0,14.3,227,Summer,826083,17817,36
+RU_0428,5/7/2025,Russia,Saint Petersburg,22.1,48,4.8,116,None,Dfb,Continental,Urban,22.1,11.2,182,Summer,392796,0,43
+RU_0429,6/7/2025,Russia,Kazan,23.9,58,4.6,73,None,Dfc,Subarctic,Urban,23.9,3.6,236,Summer,"66,953",0,55
+RU_0430,7/7/2025,Russia,Moscow,22.7,71,0,77,None,Dfb,Subarctic,Urban,22.7,5.8,175,Summer,1859890,0,56
+RU_0431,8/7/2025,Russia,Saint Petersburg,25.2,67,0,88,Wildfire,Dfc,Subarctic,Urban,25.2,11.3,318,Summer,1058981,63115,84
+RU_0432,9/7/2025,Russia,Kazan,24.0,40,0,69,Heatwave,Dfc,Continental,Taiga,24.0,3.6,350,Summer,180197,0,85
+RU_0433,10/7/2025,Russia,Moscow,,NA,1.8,105,None,Dfc,Subarctic,Taiga,28.3,10.6,140,Summer,1488564,27572,37
+RU_0434,11/7/2025,Russia,Saint Petersburg,27.4,49,0,92,None,Dfc,Continental,Forest,27.7,4.7,91,Summer,606900,21973,55
+RU_0435,12/7/2025,Russia,Kazan,31.0,,28.2,84,None,Dfc,NA,Taiga,37.6,NA,184,Summer,166688,0,36
+RU_0436,13/7/2025,Russia,Moscow,25.0,55,0,88,None,Dfb,Continental,Forest,25.0,8.4,65,Summer,1244610,0,56
+RU_0437,14/7/2025,Russia,Saint Petersburg,24.4,36,9.7,104,None,Dfb,Continental,Urban,24.4,8.0,207,Summer,592037,3379,40
+RU_0438,15/7/2025,Russia,Kazan,24.5,62,1.7,105,None,Dfc,Continental,Taiga,24.5,,132,Summer,NA,0,46
+RU_0439,16/7/2025,Russia,Moscow,27.2,39,2.8,91,None,Dfb,Continental,Urban,27.0,NA,103,Summer,1730900,0,38
+RU_0440,17/7/2025,Russia,Saint Petersburg,30.9,64,0.5,76,None,Dfb,Subarctic,Urban,35.7,10.4,0,Summer,808083,35217,41
+RU_0441,18/7/2025,Russia,Kazan,24.1,75,0,103,None,Dfb,Subarctic,Taiga,24.1,13.2,142,Summer,158012,,52
+RU_0442,19/7/2025,Russia,Moscow,30.1,78,0,84,None,Dfb,Subarctic,Urban,37.4,13.3,193,Summer,1773601,0,51
+RU_0443,20/7/2025,Russia,Saint Petersburg,21.5,46,4.8,107,None,Dfb,Continental,Taiga,21.5,4.3,57,Summer,"707,446",0,61
+RU_0444,21/7/2025,Russia,Kazan,29.8,52,0,101,None,Dfb,Subarctic,Forest,31.1,8.4,69,Summer,75628,0,60
+RU_0445,22/7/2025,Russia,Moscow,28.1,65,0,82,None,Dfc,Continental,Taiga,30.2,4.0,348,Summer,1065856,0,44
+RU_0446,23/7/2025,Russia,Saint Petersburg,28.0,77,0,128,None,Dfb,Subarctic,Forest,31.6,6.1,126,Summer,442770,0,62
+RU_0447,24/7/2025,Russia,Kazan,31.2,61,1.9,116,None,Dfc,Subarctic,Urban,35.5,6.6,16,Summer,88168,0,49
+RU_0448,25/7/2025,Russia,Moscow,25.9,75,0,92,None,Dfc,Continental,Forest,25.9,2.4,233,Summer,1521627,4076,62
+RU_0449,26/7/2025,Russia,Saint Petersburg,28.3,60,3.2,94,None,Dfc,Subarctic,Taiga,29.9,8.5,92,Summer,540546,0,43
+RU_0450,27/7/2025,Russia,Kazan,24.4,52,0,123,None,Dfc,Continental,Taiga,24.4,2.4,249,Summer,90978,0,58
+RU_0451,28/7/2025,Russia,Moscow,28.3,48,1.1,102,None,Dfb,Continental,Forest,28.6,3.7,253,Summer,1623111,0,52
+RU_0452,29/7/2025,Russia,Saint Petersburg,30.3,67,1.7,106,None,Dfc,Subarctic,Urban,35.0,9.0,99,Summer,680555,0,52
+RU_0453,30/7/2025,Russia,Kazan,23.3,35,3.2,101,None,Dfc,Continental,Taiga,23.3,7.4,359,Summer,67252,14549,61
+RU_0454,31/7/2025,Russia,Moscow,27.8,72,0,103,None,Dfc,Subarctic,Urban,30.5,6.6,217,Summer,1289348,0,45
+RU_0455,1/8/2025,Russia,Saint Petersburg,26.5,61,3.4,121,None,Dfb,Continental,Forest,26.5,10.9,164,Summer,418259,0,55
+RU_0456,2/8/2025,Russia,Kazan,30.0,54,0,85,,Dfc,,Taiga,31.7,27.7,199,NA,139011,206171,68
+RU_0457,3/8/2025,Russia,Moscow,26.6,63,0,92,None,Dfb,Continental,Taiga,26.6,9.6,254,Summer,1655371,9361,50
+RU_0458,4/8/2025,Russia,Saint Petersburg,28.5,54,4.8,115,None,Dfc,Continental,Taiga,29.5,14.0,17,Summer,724657,0,58
+RU_0459,5/8/2025,Russia,Kazan,31.2,60,0,112,None,Dfc,Continental,Taiga,35.3,5.0,45,Summer,"158,349",0,59
+RU_0460,6/8/2025,Russia,Moscow,31.1,75,0,105,None,Dfc,Continental,Forest,39.5,7.0,258,Summer,1212536,0,37
+RU_0461,7/8/2025,Russia,Saint Petersburg,26.1,43,0,121,None,Dfb,Subarctic,Urban,26.1,13.8,354,Summer,399922,7057,47
+RU_0462,8/8/2025,Russia,Kazan,25.2,44,0,101,None,Dfc,Subarctic,Forest,25.2,7.2,240,Summer,142595,38854,43
+RU_0463,9/8/2025,Russia,Moscow,24.8,41,0,92,Drought,Dfb,Continental,Taiga,24.8,6.4,293,Summer,"3,589,186","920,645",48
+RU_0464,10/8/2025,Russia,Saint Petersburg,28.5,38,2.3,125,None,Dfb,Subarctic,Forest,28.0,10.8,66,Summer,738602,0,59
+RU_0465,11/8/2025,Russia,Kazan,28.9,52,0,83,Drought,Dfb,Subarctic,Taiga,29.8,12.0,4,Summer,269859,350091,69
+RU_0466,12/8/2025,Russia,Moscow,24.4,60,0.9,79,None,Dfb,Subarctic,Taiga,24.4,9.0,50,Summer,1079529,0,45
+RU_0467,13/8/2025,Russia,Saint Petersburg,21.6,62,0,108,None,Dfb,Continental,Forest,21.6,3.1,271,Summer,751405,40256,63
+RU_0468,14/8/2025,Russia,Kazan,22.6,NA,0,69,NA,Dfc,Subarctic,Forest,22.6,4.6,136,Summer,69698,,49
+RU_0469,15/8/2025,Russia,Moscow,22.9,80,4.0,92,None,Dfc,Continental,Forest,22.9,7.3,145,Summer,1024172,31324,42
+RU_0470,16/8/2025,Russia,Saint Petersburg,29.2,75,0,130,None,Dfb,Continental,Forest,34.2,5.2,340,Summer,428279,0,36
+RU_0471,17/8/2025,Russia,Kazan,,84,0,80,Heatwave,Dfb,Continental,Forest,23.7,8.0,176,Summer,"309,983","178,334",95
+RU_0472,18/8/2025,Russia,Moscow,24.9,62,0,81,None,Dfc,Subarctic,Taiga,24.9,4.8,350,Summer,1785539,0,54
+RU_0473,19/8/2025,Russia,Saint Petersburg,26.9,NA,0,124,None,Dfc,Continental,Taiga,26.9,NA,,Summer,424945,0,54
+RU_0474,20/8/2025,Russia,Kazan,25.2,48,2.6,122,None,Dfb,Subarctic,Urban,25.2,14.5,325,Summer,83600,0,51
+RU_0475,21/8/2025,Russia,Moscow,22.4,67,0,104,None,Dfc,Continental,Forest,22.4,12.3,250,Summer,819550,37304,43
+RU_0476,22/8/2025,Russia,Saint Petersburg,27.9,80,2.6,86,None,Dfc,Continental,Taiga,31.9,12.0,197,Summer,667758,0,38
+RU_0477,23/8/2025,Russia,Kazan,26.3,52,0,97,None,Dfc,Continental,Urban,26.3,4.8,280,Summer,166232,0,35
+RU_0478,24/8/2025,Russia,Moscow,29.7,52,0,105,None,Dfb,Subarctic,Forest,30.9,8.5,174,Summer,1064017,0,57
+RU_0479,25/8/2025,Russia,Saint Petersburg,26.7,47,0,76,None,Dfc,Subarctic,Forest,26.7,13.3,178,Summer,759221,0,57
+RU_0480,2025-08-26,Russia,Kazan,25.9,80,0,118,None,Dfc,Subarctic,Taiga,25.9,10.2,238,Summer,"183,417",0,59
+RU_0481,27/8/2025,Russia,Moscow,24.9,66,0,130,None,Dfb,Continental,Urban,24.9,11.9,240,Summer,1040639,0,49
+RU_0482,28/8/2025,Russia,Saint Petersburg,30.2,59,0,86,None,Dfb,Continental,Forest,33.0,11.3,109,Summer,374578,0,52
+RU_0483,29/8/2025,Russia,Kazan,29.7,NA,0,126,None,Dfc,Continental,Forest,32.3,12.3,38,Summer,162963,NA,62
+RU_0484,30/8/2025,Russia,Moscow,30.7,78,0,90,Wildfire,Dfc,Continental,Taiga,39.2,9.6,233,Summer,1651222,55871,54
+RU_0485,31/8/2025,Russia,Saint Petersburg,22.0,49,0.6,NA,,Dfb,Continental,Urban,22.0,4.1,80,NA,438927,0,35
+RU_0486,1/9/2025,Russia,Kazan,5.2,76,0,75,None,Dfb,Continental,Forest,5.2,3.6,272,Autumn,90676,0,51
+RU_0487,2/9/2025,Russia,Moscow,2.3,60,29.4,84,None,Dfc,Continental,Forest,2.3,7.4,306,Autumn,"860,106",0,48
+RU_0488,3/9/2025,Russia,Saint Petersburg,6.1,35,0,100,None,Dfb,Subarctic,Taiga,6.1,5.3,215,Autumn,787592,0,57
+RU_0489,4/9/2025,Russia,Kazan,-0.6,76,0,120,None,Dfb,Subarctic,Taiga,-0.6,4.2,318,Autumn,86187,0,44
+RU_0490,5/9/2025,Russia,Moscow,0.3,61,0,91,None,Dfb,Continental,Forest,,12.9,16,Autumn,735054,37729,52
+RU_0491,6/9/2025,Russia,Saint Petersburg,2.6,60,4.9,109,None,Dfb,Continental,Forest,2.6,9.1,260,Autumn,573228,0,42
+RU_0492,7/9/2025,Russia,Kazan,3.5,66,22.9,80,Flood,Dfb,Subarctic,Taiga,3.5,13.2,75,,264173,0,64
+RU_0493,8/9/2025,Russia,Moscow,3.8,77,0,123,None,Dfc,Subarctic,Forest,3.8,3.4,21,Autumn,1003059,0,60
+RU_0494,9/9/2025,Russia,Saint Petersburg,0.3,,3.5,86,None,,Subarctic,Forest,0.3,3.0,18,Autumn,330148,0,
+RU_0495,10/9/2025,Russia,Kazan,-0.7,71,0,102,None,Dfc,Continental,Urban,-0.7,5.4,159,Autumn,151884,0,60
+RU_0496,11/9/2025,Russia,Moscow,0.1,38,3.8,114,None,Dfb,Subarctic,Urban,0.1,9.9,32,Autumn,1827141,1199,
+RU_0497,12/9/2025,Russia,Saint Petersburg,1.5,83,5.5,129,None,Dfc,Subarctic,Urban,1.5,12.0,82,Autumn,467232,0,43
+RU_0498,13/9/2025,Russia,Kazan,3.1,37,1.9,97,None,Dfc,Continental,Urban,3.1,14.8,211,Autumn,96486,0,65
+RU_0499,14/9/2025,Russia,Moscow,8.1,40,1.1,80,NA,NA,Continental,Forest,8.1,6.6,128,Autumn,1249260,0,NA
+RU_0500,15/9/2025,Russia,Saint Petersburg,0.7,80,1.6,122,None,Dfb,Subarctic,Urban,0.7,11.5,199,Autumn,668505,0,40

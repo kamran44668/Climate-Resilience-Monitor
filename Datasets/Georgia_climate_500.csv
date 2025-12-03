@@ -1,0 +1,516 @@
+Record ID,Date,Country,City,Temperature (°C),Humidity (%),Precipitation (mm),Air Quality Index (AQI),Extreme Weather Events,Climate Classification,Climate_Zone,Biome_Type,Heat_Index,Wind_Speed,Wind_Direction,Season,Population_Exposure,Economic_Impact_Estimate,Infrastructure_Vulnerability_Score
+GE_0001,4/5/2024,Georgia,Tbilisi,12.0,72,1.6,79,None,Cfa,Temperate,Urban,12.0,12.7,353,Spring,74400,0,42
+GE_0002,5/5/2024,Georgia,Batumi,5.0,83,0,61,Flood,Cfb,Temperate,Urban,5.0,4.2,187,Spring,61465,0,99
+GE_0003,6/5/2024,Georgia,Kutaisi,8.7,NA,0,43,None,Cfa,Temperate,Shrubland,8.7,12.9,203,Spring,21946,0,55
+GE_0004,2024-05-07,Georgia,Tbilisi,10.6,41,0,61,None,Cfa,Temperate,Shrubland,10.6,12.3,265,Spring,149593,0,51
+GE_0005,8/5/2024,Georgia,Batumi,2.2,70,8.7,87,None,Cfb,Temperate,Forest,2.2,3.8,27,Spring,13625,0,62
+GE_0006,9/5/2024,Georgia,Kutaisi,3.5,50,0,95,None,Cfb,Humid subtropical,Shrubland,3.5,11.2,28,Spring,11645,0,50
+GE_0007,10/5/2024,Georgia,Tbilisi,11.8,43,2.8,60,Flood,Cfa,Humid subtropical,Shrubland,11.8,11.9,67,Spring,427335,86450,68
+GE_0008,11/5/2024,Georgia,Batumi,8.0,56,0,47,None,Cfa,Humid subtropical,Shrubland,8.0,6.0,254,Spring,NA,0,43
+GE_0009,12/5/2024,Georgia,Kutaisi,6.2,38,3.4,66,None,Cfb,Temperate,Urban,6.2,7.2,357,Spring,10354,0,57
+GE_0010,13/5/2024,Georgia,Tbilisi,6.2,36,11.7,91,Flood,Cfa,Humid subtropical,Forest,6.2,12.0,290,Spring,308655,98843,68
+GE_0011,14/5/2024,Georgia,Batumi,5.4,79,2.6,92,Storm,Cfb,Humid subtropical,Forest,5.4,30.0,156,Spring,37064,1660017,81
+GE_0012,15/5/2024,Georgia,Kutaisi,10.0,43,0,55,None,Cfb,Humid subtropical,Urban,10.0,8.1,252,Spring,9133,0,56
+GE_0013,16/5/2024,Georgia,Tbilisi,10.7,65,25.7,60,None,Cfb,Humid subtropical,Shrubland,10.7,11.9,214,Spring,159012,0,45
+GE_0014,17/5/2024,Georgia,Batumi,8.1,51,0,37,None,Cfb,Humid subtropical,Urban,8.1,12.6,84,Spring,22726,9116,45
+GE_0015,18/5/2024,Georgia,Kutaisi,2.2,69,0,82,None,Cfa,Temperate,Forest,2.2,13.4,29,Spring,8352,0,48
+GE_0016,19/5/2024,Georgia,Tbilisi,6.6,81,0,51,None,Cfa,Humid subtropical,Shrubland,6.6,3.9,75,Spring,77975,0,64
+GE_0017,20/5/2024,Georgia,Batumi,2.7,79,0,47,None,Cfa,Humid subtropical,Forest,2.7,11.2,311,Spring,18563,0,40
+GE_0018,21/5/2024,Georgia,Kutaisi,9.2,77,3.6,53,None,Cfa,Temperate,Shrubland,9.2,5.3,243,Spring,13355,38602,46
+GE_0019,22/5/2024,Georgia,Tbilisi,10.1,61,0,56,None,Cfb,Temperate,Urban,10.1,6.3,207,Spring,134821,0,55
+GE_0020,23/5/2024,Georgia,Batumi,7.6,61,0,55,None,Cfa,Temperate,Forest,7.6,9.5,197,Spring,15759,0,38
+GE_0021,24/5/2024,Georgia,Kutaisi,10.9,65,0,95,Storm,Cfa,Temperate,Shrubland,10.9,,322,Spring,27567,237580,87
+GE_0022,25/5/2024,Georgia,Tbilisi,10.3,41,0,97,None,Cfb,Temperate,Urban,10.3,13.1,90,Spring,150389,0,53
+GE_0023,26/5/2024,Georgia,Batumi,6.4,94,,NA,None,Cfb,Humid subtropical,Urban,NA,8.9,299,Spring,22987,0,62
+GE_0024,27/5/2024,Georgia,Kutaisi,11.2,37,0,73,None,Cfb,Temperate,Forest,11.2,7.5,172,Spring,11941,0,41
+GE_0025,28/5/2024,Georgia,Tbilisi,3.4,59,0,55,Dust Storm,Cfb,Humid subtropical,Urban,3.4,7.0,74,Spring,248929,0,88
+GE_0026,29/5/2024,Georgia,Batumi,2.6,54,19.6,55,None,Cfb,Temperate,Urban,2.6,3.3,337,Spring,9472,0,53
+GE_0027,30/5/2024,Georgia,Kutaisi,5.9,75,0,56,None,Cfa,Humid subtropical,Shrubland,5.9,14.5,350,Spring,17144,0,39
+GE_0028,31/5/2024,Georgia,Tbilisi,11.4,63,3.9,58,None,Cfa,Humid subtropical,Forest,11.4,13.0,119,Spring,"152,490",0,46
+GE_0029,1/6/2024,Georgia,Batumi,24.3,52,49.7,89,Heatwave,Cfb,Temperate,Urban,24.3,2.7,341,Summer,26471,269268,51
+GE_0030,2/6/2024,Georgia,Kutaisi,25.0,43,,100,None,NA,Humid subtropical,,25.0,11.5,331,Summer,10034,0,58
+GE_0031,3/6/2024,Georgia,Tbilisi,NA,NA,0,75,None,Cfb,,Shrubland,22.7,9.6,296,Summer,155740,0,55
+GE_0032,4/6/2024,Georgia,Batumi,28.3,67,0,94,None,Cfa,Humid subtropical,Urban,30.8,8.3,117,Summer,15894,0,42
+GE_0033,5/6/2024,Georgia,Kutaisi,26.5,81,18.5,92,None,Cfa,Temperate,Urban,26.5,3.3,329,Summer,19041,0,55
+GE_0034,6/6/2024,Georgia,Tbilisi,26.1,67,NA,74,None,Cfa,Temperate,Forest,26.1,11.6,117,Summer,134533,0,NA
+GE_0035,7/6/2024,Georgia,Batumi,31.3,71,0,74,None,Cfa,Temperate,Forest,38.7,3.6,271,Summer,7811,0,61
+GE_0036,8/6/2024,Georgia,Kutaisi,23.1,75,0,77,None,Cfb,Temperate,Urban,23.1,3.7,86,Summer,19135,25336,49
+GE_0037,9/6/2024,Georgia,Tbilisi,31.1,60,1.4,78,NA,Cfb,Temperate,Urban,35.1,6.5,178,,133381,0,
+GE_0038,10/6/2024,Georgia,Batumi,31.8,78,0,42,None,Cfb,Temperate,Forest,42.8,9.8,263,Summer,20907,0,45
+GE_0039,2024-06-11,Georgia,Kutaisi,26.0,74,0,58,None,Cfa,Temperate,Shrubland,26.0,14.8,38,Summer,20949,40793,44
+GE_0040,12/6/2024,Georgia,Tbilisi,31.5,63,0,63,None,Cfb,Temperate,Shrubland,,,103,Summer,84944,0,59
+GE_0041,13/6/2024,Georgia,Batumi,26.0,63,0,41,None,Cfb,Humid subtropical,Urban,26.0,4.5,311,Summer,17630,0,36
+GE_0042,14/6/2024,Georgia,Kutaisi,22.4,63,0,98,None,Cfa,Humid subtropical,Forest,22.4,4.1,145,Summer,11213,1881,47
+GE_0043,15/6/2024,Georgia,Tbilisi,30.8,67,0,71,None,Cfa,Temperate,Forest,36.2,12.6,236,Summer,138711,0,NA
+GE_0044,2024-06-16,Georgia,Batumi,24.0,55,58.1,80,None,Cfb,Temperate,Shrubland,24.0,12.4,257,Summer,18347,0,62
+GE_0045,17/6/2024,Georgia,Kutaisi,30.4,46,0,60,None,Cfa,Humid subtropical,Forest,31.0,13.4,118,Summer,11070,0,53
+GE_0046,18/6/2024,Georgia,Tbilisi,30.4,53,27.9,67,None,Cfb,Humid subtropical,Forest,32.2,8.9,250,Summer,141473,0,54
+GE_0047,19/6/2024,Georgia,Batumi,22.3,61,0,66,None,Cfb,Temperate,Shrubland,22.3,3.5,41,Summer,11270,0,43
+GE_0048,20/6/2024,Georgia,Kutaisi,23.6,54,0,92,None,Cfb,Temperate,Urban,23.6,8.8,310,Summer,9077,0,36
+GE_0049,21/6/2024,Georgia,Tbilisi,31.7,83,0,56,Heatwave,Cfa,Temperate,Forest,44.5,10.6,122,Summer,438063,1322926,66
+GE_0050,22/6/2024,Georgia,Batumi,26.5,71,0,NA,None,,Humid subtropical,Forest,26.5,9.6,248,Summer,14691,,56
+GE_0051,23/6/2024,Georgia,Kutaisi,29.4,39,4.1,69,None,Cfb,Humid subtropical,Forest,28.9,9.3,66,Summer,10073,0,64
+GE_0052,24/6/2024,Georgia,Tbilisi,26.9,49,0,58,None,Cfb,Temperate,Urban,26.9,14.7,311,Summer,85717,27175,53
+GE_0053,25/6/2024,Georgia,Batumi,30.1,54,6.7,79,None,Cfb,Temperate,Urban,31.9,3.0,194,Summer,8384,0,37
+GE_0054,26/6/2024,Georgia,Kutaisi,31.4,56,0,81,None,Cfb,Temperate,Forest,34.7,10.2,26,Summer,21031,7749,43
+GE_0055,27/6/2024,Georgia,Tbilisi,29.3,54,0,74,None,Cfa,Temperate,Urban,30.6,8.4,217,Summer,69380,0,39
+GE_0056,28/6/2024,Georgia,Batumi,32.1,67,9.0,57,None,Cfa,Humid subtropical,Shrubland,39.6,9.9,228,Summer,13906,9851,63
+GE_0057,29/6/2024,Georgia,Kutaisi,28.3,53,2.3,86,None,Cfa,Humid subtropical,Urban,29.1,12.0,278,Summer,18061,0,55
+GE_0058,30/6/2024,Georgia,Tbilisi,23.5,48,0,63,None,Cfa,Humid subtropical,Forest,23.5,4.0,125,Summer,77534,0,44
+GE_0059,1/7/2024,Georgia,Batumi,31.6,,6.1,88,None,Cfb,NA,Urban,,13.1,279,Summer,15924,0,44
+GE_0060,2/7/2024,Georgia,Kutaisi,25.7,43,0,49,None,Cfb,Humid subtropical,Urban,25.7,12.4,NA,Summer,9291,0,58
+GE_0061,3/7/2024,Georgia,Tbilisi,27.4,43,0,69,None,Cfb,Temperate,Shrubland,27.3,10.1,328,Summer,95571,0,59
+GE_0062,4/7/2024,Georgia,Batumi,23.3,88,0.2,61,None,Cfb,Humid subtropical,Shrubland,23.3,2.3,146,Summer,9649,0,65
+GE_0063,2024-07-05,Georgia,Kutaisi,22.7,37,2.9,98,None,Cfa,Humid subtropical,Urban,22.7,2.1,321,Summer,16667,43172,46
+GE_0064,6/7/2024,Georgia,Tbilisi,30.1,62,3.7,67,None,Cfb,Temperate,Forest,33.4,11.8,15,Summer,87795,0,38
+GE_0065,7/7/2024,Georgia,Batumi,26.0,61,0,77,None,Cfb,Humid subtropical,Shrubland,26.0,10.8,321,Summer,17663,0,37
+GE_0066,2024-07-08,Georgia,Kutaisi,24.2,77,0.7,62,None,Cfa,Humid subtropical,Shrubland,24.2,5.1,22,Summer,14772,0,63
+GE_0067,9/7/2024,Georgia,Tbilisi,31.4,,0.2,85,NA,Cfb,Humid subtropical,Forest,34.7,10.5,151,,161774,11152,57
+GE_0068,10/7/2024,Georgia,Batumi,27.6,86,0,44,None,Cfa,Temperate,Urban,31.9,14.1,53,Summer,22424,0,39
+GE_0069,11/7/2024,Georgia,Kutaisi,29.6,77,0,63,None,Cfb,Temperate,Urban,35.7,4.9,85,Summer,7489,0,44
+GE_0070,12/7/2024,Georgia,Tbilisi,27.7,53,0,63,None,Cfa,Humid subtropical,Forest,28.4,7.8,107,Summer,101718,0,52
+GE_0071,13/7/2024,Georgia,Batumi,31.5,75,2.1,65,None,Cfb,Humid subtropical,Urban,40.7,4.7,265,Summer,12823,29854,57
+GE_0072,14/7/2024,Georgia,Kutaisi,31.7,69,0,95,,Cfb,Humid subtropical,Forest,39.2,14.0,122,,8317,0,46
+GE_0073,2024-07-15,Georgia,Tbilisi,29.5,70,3.2,99,None,Cfb,Temperate,Shrubland,33.9,10.3,264,Summer,123397,2968,43
+GE_0074,16/7/2024,Georgia,Batumi,30.7,65,0,62,Drought,Cfa,Temperate,Shrubland,35.4,14.6,42,Summer,22030,70166,67
+GE_0075,17/7/2024,Georgia,Kutaisi,26.1,60,0,70,NA,Cfa,Temperate,Forest,26.1,6.2,136,Summer,17604,0,45
+GE_0076,18/7/2024,Georgia,Tbilisi,27.4,56,0,98,Drought,Cfb,Humid subtropical,Shrubland,28.3,5.4,102,Summer,502678,3479166,64
+GE_0077,19/7/2024,Georgia,Batumi,22.7,58,2.7,60,None,Cfb,Temperate,Forest,22.7,6.7,107,Summer,15423,0,49
+GE_0077,19/7/2024,Georgia,Batumi,22.7,58,2.7,60,None,Cfb,Temperate,Forest,22.7,6.7,107,Summer,15423,0,49
+GE_0078,20/7/2024,Georgia,Kutaisi,24.4,55,0,57,NA,Cfa,Temperate,Urban,24.4,6.3,310,,36307,273203,40
+GE_0079,21/7/2024,Georgia,Tbilisi,26.4,82,0,73,,Cfa,Temperate,Shrubland,26.4,13.6,,Summer,82846,0,49
+GE_0080,22/7/2024,Georgia,Batumi,24.0,79,31.1,51,None,Cfa,Temperate,Forest,24.0,12.0,221,Summer,"14,012",0,35
+GE_0081,23/7/2024,Georgia,Kutaisi,31.6,50,0,52,Drought,Cfa,Humid subtropical,Shrubland,33.6,9.4,219,Summer,28092,293023,58
+GE_0082,24/7/2024,Georgia,Tbilisi,27.8,61,0,100,Heatwave,Cfb,Humid subtropical,Shrubland,29.3,5.6,203,Summer,256784,661302,84
+GE_0083,25/7/2024,Georgia,Batumi,23.5,NA,0,56,Heatwave,Cfa,Humid subtropical,Urban,23.5,8.2,NA,Summer,29733,NA,45
+GE_0084,26/7/2024,Georgia,Kutaisi,32.0,67,0,NA,None,Cfb,,Urban,39.3,,213,Summer,8948,0,57
+GE_0085,27/7/2024,Georgia,Tbilisi,23.0,65,0,63,None,Cfa,Humid subtropical,Urban,23.0,11.6,61,Summer,63492,0,52
+GE_0086,28/7/2024,Georgia,Batumi,29.5,93,0,96,None,Cfb,Humid subtropical,Forest,39.7,7.7,330,Summer,16794,0,48
+GE_0087,29/7/2024,Georgia,Kutaisi,31.0,59,0.9,99,None,Cfb,Humid subtropical,Urban,34.6,12.5,238,Summer,8410,0,53
+GE_0088,30/7/2024,Georgia,Tbilisi,26.7,49,2.7,79,None,Cfa,Humid subtropical,Shrubland,26.7,4.1,52,Summer,62282,0,56
+GE_0089,31/7/2024,Georgia,Batumi,25.7,69,1.7,95,None,Cfb,Temperate,Shrubland,25.7,3.5,290,Summer,14435,0,52
+GE_0090,1/8/2024,Georgia,Kutaisi,30.6,82,0,71,None,Cfa,,Forest,40.2,7.1,254,Summer,14819,NA,36
+GE_0091,2/8/2024,Georgia,Tbilisi,28.4,66,21.1,97,Storm,Cfb,Humid subtropical,Urban,30.9,21.0,4,Summer,267829,9119,84
+GE_0092,3/8/2024,Georgia,Batumi,31.3,86,0,73,None,Cfa,Temperate,Forest,44.2,11.7,294,Summer,16498,20172,61
+GE_0093,4/8/2024,Georgia,Kutaisi,26.6,45,0,77,None,Cfb,Humid subtropical,Forest,26.6,12.1,162,Summer,"14,277","25,532",63
+GE_0094,5/8/2024,Georgia,Tbilisi,24.5,39,15.8,54,None,Cfb,Temperate,Shrubland,24.5,13.3,178,Summer,162097,0,59
+GE_0095,6/8/2024,Georgia,Batumi,31.5,58,0,83,None,Cfb,Temperate,Urban,35.4,5.1,223,Summer,21929,0,52
+GE_0096,7/8/2024,Georgia,Kutaisi,31.5,66,0,49,Drought,Cfa,Temperate,Urban,37.7,2.7,254,Summer,22247,83779,55
+GE_0097,8/8/2024,Georgia,Tbilisi,29.8,65,2.0,80,None,Cfb,Humid subtropical,Urban,33.5,12.1,25,Summer,69589,0,55
+GE_0098,9/8/2024,Georgia,Batumi,26.7,67,2.2,58,None,Cfb,Humid subtropical,Forest,26.7,11.5,283,Summer,"10,088",0,55
+GE_0099,10/8/2024,Georgia,Kutaisi,30.8,50,0.5,75,None,Cfa,Humid subtropical,Forest,32.3,6.9,34,Summer,9007,0,51
+GE_0100,11/8/2024,Georgia,Tbilisi,27.4,66,0,56,None,Cfa,Humid subtropical,Forest,29.2,6.2,342,Summer,168458,0,45
+GE_0101,12/8/2024,Georgia,Batumi,31.4,86,0,71,Drought,Cfb,Humid subtropical,Forest,44.6,13.2,57,Summer,37816,414979,76
+GE_0102,13/8/2024,Georgia,Kutaisi,29.0,NA,0,79,None,Cfa,Humid subtropical,Urban,35.0,10.9,21,Summer,20132,0,47
+GE_0103,14/8/2024,Georgia,Tbilisi,30.8,64,8.8,55,None,Cfa,Humid subtropical,Urban,35.4,6.8,91,Summer,152047,10197,56
+GE_0104,15/8/2024,Georgia,Batumi,28.2,81,8.8,NA,,Cfa,Humid subtropical,Shrubland,32.8,NA,326,Summer,15182,15472,56
+GE_0105,16/8/2024,Georgia,Kutaisi,31.4,44,0,91,None,Cfa,Temperate,Forest,32.1,10.7,204,Summer,17768,9873,48
+GE_0106,17/8/2024,Georgia,Tbilisi,NA,45,2.5,57,Drought,Cfa,Temperate,Shrubland,32.0,NA,33,Summer,"340,919","2,101,714",75
+GE_0107,18/8/2024,Georgia,Batumi,23.6,67,0,57,None,Cfb,Temperate,Urban,23.6,13.7,140,Summer,8097,0,38
+GE_0108,19/8/2024,Georgia,Kutaisi,27.7,84,0.6,71,None,Cfb,Humid subtropical,Forest,31.9,9.4,47,Summer,"14,469",0,65
+GE_0109,20/8/2024,Georgia,Tbilisi,26.3,36,11.1,65,None,Cfb,Humid subtropical,Forest,26.3,11.1,296,Summer,170490,0,39
+GE_0110,21/8/2024,Georgia,Batumi,25.7,68,0,64,None,Cfb,Temperate,Forest,25.7,11.4,115,Summer,13380,0,40
+GE_0111,22/8/2024,Georgia,Kutaisi,25.3,,3.8,77,None,Cfb,Humid subtropical,Urban,25.3,NA,148,Summer,13307,,64
+GE_0112,23/8/2024,Georgia,Tbilisi,26.3,44,0,102,None,Cfb,Humid subtropical,Urban,26.3,2.1,118,Summer,164688,0,57
+GE_0113,24/8/2024,Georgia,Batumi,23.4,67,0,97,None,Cfa,Temperate,Shrubland,23.4,3.0,34,Summer,19044,0,42
+GE_0113,24/8/2024,Georgia,Batumi,23.4,67,0,97,None,Cfa,Temperate,Shrubland,23.4,3.0,34,Summer,19044,0,42
+GE_0114,25/8/2024,Georgia,Kutaisi,31.9,77,0.6,48,None,Cfb,Humid subtropical,Shrubland,42.8,13.7,121,Summer,18196,0,41
+GE_0115,26/8/2024,Georgia,Tbilisi,NA,67,0,90,None,Cfa,Humid subtropical,Urban,32.4,9.2,,Summer,103347,0,
+GE_0116,27/8/2024,Georgia,Batumi,27.4,61,0,86,Heatwave,Cfa,Temperate,Forest,28.7,10.9,45,Summer,43529,79710,67
+GE_0117,28/8/2024,Georgia,Kutaisi,32.0,77,0.6,80,None,Cfa,Temperate,Shrubland,43.1,4.5,309,Summer,8230,0,63
+GE_0118,29/8/2024,Georgia,Tbilisi,25.2,71,0,62,None,Cfa,Humid subtropical,Forest,25.2,11.0,230,Summer,125676,0,36
+GE_0119,30/8/2024,Georgia,Batumi,25.4,55,2.5,97,None,Cfb,Humid subtropical,Shrubland,25.4,13.9,13,Summer,9566,0,44
+GE_0119,30/8/2024,Georgia,Batumi,25.4,55,2.5,97,None,Cfb,Humid subtropical,Shrubland,25.4,13.9,13,Summer,9566,0,44
+GE_0120,31/8/2024,Georgia,Kutaisi,24.4,51,0,86,None,Cfb,Humid subtropical,Forest,24.4,12.3,101,Summer,14974,35527,43
+GE_0121,1/9/2024,Georgia,Tbilisi,12.0,84,1.2,99,None,Cfb,Humid subtropical,Forest,12.0,8.7,243,Autumn,133471,0,56
+GE_0122,2/9/2024,Georgia,Batumi,8.9,85,4.3,82,None,Cfa,Temperate,Urban,8.9,4.7,242,Autumn,8780,0,58
+GE_0123,3/9/2024,Georgia,Kutaisi,12.5,83,0,68,NA,Cfa,Temperate,Shrubland,12.5,3.6,74,Autumn,16336,0,43
+GE_0124,4/9/2024,Georgia,Tbilisi,16.0,59,0,60,None,Cfb,Temperate,Shrubland,16.0,7.9,180,Autumn,110408,28285,65
+GE_0125,5/9/2024,Georgia,Batumi,10.9,63,8.1,77,None,Cfb,,Shrubland,10.9,8.7,336,Autumn,,NA,42
+GE_0126,6/9/2024,Georgia,Kutaisi,16.2,47,0,102,None,Cfb,Humid subtropical,Shrubland,16.2,9.1,145,Autumn,10160,0,63
+GE_0127,7/9/2024,Georgia,Tbilisi,16.9,60,2.1,88,None,Cfb,Humid subtropical,Forest,16.9,2.2,39,Autumn,106252,0,51
+GE_0128,8/9/2024,Georgia,Batumi,12.7,56,2.7,42,Flood,,Temperate,Urban,12.7,4.4,17,Autumn,46534,11027,40
+GE_0129,9/9/2024,Georgia,Kutaisi,8.5,46,0,75,None,Cfb,Temperate,Urban,8.5,14.9,74,Autumn,13907,0,64
+GE_0130,10/9/2024,Georgia,Tbilisi,9.9,45,0.8,104,None,Cfa,Humid subtropical,Shrubland,9.9,10.6,242,Autumn,123065,0,55
+GE_0131,11/9/2024,Georgia,Batumi,13.3,55,5.6,93,None,Cfa,Humid subtropical,Urban,13.3,10.2,18,Autumn,11563,0,65
+GE_0132,12/9/2024,Georgia,Kutaisi,15.9,80,3.3,68,None,Cfa,Temperate,Urban,15.9,7.3,121,Autumn,18538,0,55
+GE_0133,13/9/2024,Georgia,Tbilisi,10.7,40,0,99,None,Cfb,Humid subtropical,Urban,10.7,4.4,281,Autumn,155004,NA,59
+GE_0134,14/9/2024,Georgia,Batumi,8.1,63,2.9,81,None,Cfa,Temperate,Forest,8.1,12.0,359,Autumn,22924,24066,48
+GE_0135,15/9/2024,Georgia,Kutaisi,12.1,72,5.5,82,None,Cfa,Temperate,Forest,12.1,11.7,NA,Autumn,8675,35858,52
+GE_0136,16/9/2024,Georgia,Tbilisi,10.8,35,0,100,None,Cfa,Temperate,Urban,10.8,11.3,285,Autumn,99921,0,49
+GE_0137,17/9/2024,Georgia,Batumi,11.5,91,5.0,71,None,Cfb,,Urban,11.5,9.9,32,Autumn,21761,0,
+GE_0138,18/9/2024,Georgia,Kutaisi,12.1,55,20.6,60,,Cfa,Temperate,Shrubland,,6.5,254,Autumn,28908,796904,87
+GE_0139,19/9/2024,Georgia,Tbilisi,15.9,63,3.1,96,None,Cfb,Humid subtropical,Shrubland,15.9,3.3,256,Autumn,165226,0,63
+GE_0140,20/9/2024,Georgia,Batumi,16.2,91,0,41,None,Cfa,Temperate,Forest,16.2,11.4,144,Autumn,21492,0,60
+GE_0141,21/9/2024,Georgia,Kutaisi,13.4,63,2.8,102,None,Cfb,Temperate,Urban,13.4,12.4,247,Autumn,16764,32749,38
+GE_0141,21/9/2024,Georgia,Kutaisi,13.4,63,2.8,102,None,Cfb,Temperate,Urban,13.4,12.4,247,Autumn,16764,32749,38
+GE_0142,22/9/2024,Georgia,Tbilisi,15.9,37,0,109,None,Cfb,Temperate,Urban,15.9,3.1,230,Autumn,146863,0,64
+GE_0142,22/9/2024,Georgia,Tbilisi,15.9,37,0,109,None,Cfb,Temperate,Urban,15.9,3.1,230,Autumn,146863,0,64
+GE_0143,23/9/2024,Georgia,Batumi,9.2,NA,9.9,45,None,Cfb,,NA,9.2,9.3,313,Autumn,22929,0,43
+GE_0144,24/9/2024,Georgia,Kutaisi,16.5,72,0,99,None,Cfa,Temperate,Shrubland,16.5,12.8,141,Autumn,16205,21491,55
+GE_0145,25/9/2024,Georgia,Tbilisi,7.8,60,0,99,None,Cfb,Temperate,Forest,7.8,5.7,338,Autumn,174343,0,43
+GE_0146,26/9/2024,Georgia,Batumi,16.5,92,0,73,None,Cfa,Temperate,Forest,16.5,14.2,98,Autumn,16131,0,50
+GE_0147,27/9/2024,Georgia,Kutaisi,15.8,49,0,59,None,Cfa,Temperate,Forest,15.8,12.3,229,Autumn,12229,0,60
+GE_0148,2024-09-28,Georgia,Tbilisi,15.9,78,0,61,None,Cfb,Humid subtropical,Shrubland,15.9,6.1,296,Autumn,86672,0,49
+GE_0149,29/9/2024,Georgia,Batumi,12.9,83,0,44,None,Cfb,Humid subtropical,Forest,12.9,2.8,241,Autumn,14315,0,37
+GE_0150,30/9/2024,Georgia,Kutaisi,7.7,54,0,52,None,Cfa,Humid subtropical,Forest,7.7,2.6,147,Autumn,11556,0,56
+GE_0151,1/10/2024,Georgia,Tbilisi,15.5,63,2.6,64,None,Cfa,Temperate,Shrubland,15.5,13.9,49,Autumn,170088,NA,52
+GE_0152,2/10/2024,Georgia,Batumi,10.6,78,0,99,None,,Humid subtropical,Urban,10.6,8.6,178,Autumn,12841,0,48
+GE_0153,3/10/2024,Georgia,Kutaisi,9.8,74,1.0,79,None,Cfb,Humid subtropical,Urban,9.8,9.0,318,Autumn,10336,0,43
+GE_0154,4/10/2024,Georgia,Tbilisi,8.4,74,0,101,None,Cfb,Humid subtropical,Shrubland,8.4,15.0,234,Autumn,73994,0,46
+GE_0155,5/10/2024,Georgia,Batumi,9.1,91,0,94,None,Cfb,Humid subtropical,Shrubland,9.1,8.2,194,Autumn,22610,0,36
+GE_0156,6/10/2024,Georgia,Kutaisi,9.4,54,4.3,56,None,Cfa,Humid subtropical,Shrubland,9.4,3.0,321,Autumn,11963,0,40
+GE_0157,2024-10-07,Georgia,Tbilisi,8.9,70,0,64,None,Cfb,Humid subtropical,Shrubland,8.9,13.3,87,Autumn,79893,0,47
+GE_0158,8/10/2024,Georgia,Batumi,11.0,53,7.8,74,None,Cfb,Temperate,Urban,11.0,4.2,181,NA,11853,18491,NA
+GE_0159,9/10/2024,Georgia,Kutaisi,14.8,82,17.9,76,None,Cfb,Humid subtropical,Shrubland,14.8,13.2,317,Autumn,19629,0,62
+GE_0160,10/10/2024,Georgia,Tbilisi,11.9,83,3.3,,None,Cfa,Humid subtropical,Urban,11.9,NA,169,,138980,40345,55
+GE_0161,11/10/2024,Georgia,Batumi,8.8,76,0,93,None,Cfb,Humid subtropical,Forest,8.8,7.6,147,Autumn,19879,0,37
+GE_0162,12/10/2024,Georgia,Kutaisi,9.2,76,0,70,None,Cfb,Temperate,Shrubland,9.2,3.0,302,Autumn,19166,0,62
+GE_0163,13/10/2024,Georgia,Tbilisi,10.1,55,0,88,None,Cfb,Humid subtropical,Shrubland,10.1,3.9,139,Autumn,88942,0,48
+GE_0164,14/10/2024,Georgia,Batumi,11.2,91,1.8,52,Storm,Cfa,Humid subtropical,Shrubland,11.2,34.8,167,Autumn,20225,0,78
+GE_0165,15/10/2024,Georgia,Kutaisi,15.3,82,0,61,None,Cfa,Humid subtropical,Shrubland,15.3,11.7,199,Autumn,15278,0,38
+GE_0166,16/10/2024,Georgia,Tbilisi,11.2,70,0.5,78,None,Cfa,Temperate,Shrubland,11.2,3.3,255,NA,107177,0,38
+GE_0167,17/10/2024,Georgia,Batumi,16.8,91,1.2,50,None,Cfa,Humid subtropical,Shrubland,16.8,12.8,59,Autumn,"14,608",0,65
+GE_0168,18/10/2024,Georgia,Kutaisi,14.3,48,0,80,None,Cfa,Temperate,Urban,14.3,4.2,125,Autumn,13912,0,61
+GE_0169,19/10/2024,Georgia,Tbilisi,17.4,47,0,85,None,Cfa,Humid subtropical,Forest,17.4,5.1,326,Autumn,160657,3002,38
+GE_0170,20/10/2024,Georgia,Batumi,9.0,60,0,79,None,Cfb,Temperate,Urban,9.0,7.5,182,Autumn,8693,0,61
+GE_0171,21/10/2024,Georgia,Kutaisi,7.9,56,0.7,76,None,Cfb,Temperate,Urban,7.9,9.9,331,Autumn,10805,46162,49
+GE_0172,22/10/2024,Georgia,Tbilisi,7.8,55,0,65,None,Cfa,Temperate,Shrubland,7.8,,245,Autumn,NA,,62
+GE_0173,23/10/2024,Georgia,Batumi,10.3,86,3.5,63,Flood,Cfb,Humid subtropical,Forest,10.3,8.6,84,Autumn,24079,487668,55
+GE_0174,24/10/2024,Georgia,Kutaisi,13.2,64,0,100,None,Cfa,Humid subtropical,Forest,13.2,2.4,351,Autumn,17851,0,NA
+GE_0175,25/10/2024,Georgia,Tbilisi,16.0,85,3.2,74,Flood,,Temperate,Forest,16.0,10.6,129,Autumn,342968,0,66
+GE_0176,26/10/2024,Georgia,Batumi,15.9,61,1.9,46,None,Cfa,Humid subtropical,Shrubland,15.9,8.2,149,Autumn,19800,0,52
+GE_0177,27/10/2024,Georgia,Kutaisi,8.3,60,0,49,None,Cfa,Humid subtropical,Forest,8.3,3.1,2,Autumn,12406,0,61
+GE_0178,28/10/2024,Georgia,Tbilisi,13.5,47,0.3,76,None,Cfb,Humid subtropical,Shrubland,13.5,14.7,133,Autumn,165026,2986,49
+GE_0179,29/10/2024,Georgia,Batumi,11.0,80,8.5,84,Storm,Cfa,Humid subtropical,Forest,11.0,27.6,356,Autumn,51494,37764,67
+GE_0180,30/10/2024,Georgia,Kutaisi,10.6,72,0,87,None,Cfa,Temperate,Urban,10.6,7.6,337,Autumn,13064,0,38
+GE_0181,31/10/2024,Georgia,Tbilisi,13.8,56,0,66,None,Cfa,Temperate,Forest,13.8,14.1,351,Autumn,131786,0,50
+GE_0182,1/11/2024,Georgia,Batumi,7.8,91,8.1,90,None,Cfa,Temperate,Urban,7.8,3.3,78,Autumn,22927,0,36
+GE_0183,2024-11-02,Georgia,Kutaisi,8.2,69,0,55,Storm,Cfb,Temperate,Urban,8.2,21.5,221,Autumn,40736,5354,55
+GE_0184,3/11/2024,Georgia,Tbilisi,8.8,65,0,105,Storm,Cfa,Humid subtropical,Forest,8.8,22.8,286,Autumn,93981,1395399,57
+GE_0185,4/11/2024,Georgia,Batumi,13.0,91,4.9,57,None,Cfb,Temperate,Urban,13.0,10.7,73,Autumn,17702,49428,52
+GE_0186,5/11/2024,Georgia,Kutaisi,12.3,70,0,107,None,Cfa,Temperate,Urban,12.3,10.2,251,Autumn,19834,0,46
+GE_0187,6/11/2024,Georgia,Tbilisi,11.0,40,0,89,None,Cfa,Temperate,Shrubland,11.0,3.2,339,Autumn,61771,0,40
+GE_0188,7/11/2024,Georgia,Batumi,11.8,95,NA,73,Storm,Cfb,Humid subtropical,Forest,11.8,,63,Autumn,27110,305871,68
+GE_0189,8/11/2024,Georgia,Kutaisi,11.6,67,0,52,None,Cfb,Humid subtropical,Shrubland,11.6,12.9,285,Autumn,18983,42439,45
+GE_0190,9/11/2024,Georgia,Tbilisi,13.9,51,0,71,None,Cfb,Humid subtropical,Forest,13.9,10.2,292,Autumn,89402,0,64
+GE_0191,2024-11-10,Georgia,Batumi,13.7,59,0,74,None,Cfb,Temperate,Urban,13.7,7.3,80,Autumn,13968,47549,46
+GE_0192,11/11/2024,Georgia,Kutaisi,16.9,46,19.5,57,None,Cfa,Humid subtropical,Urban,16.9,9.6,225,Autumn,17926,0,42
+GE_0193,12/11/2024,Georgia,Tbilisi,12.7,46,4.9,81,None,Cfa,Temperate,Forest,12.7,14.6,71,Autumn,107040,36597,37
+GE_0194,13/11/2024,Georgia,Batumi,NA,60,5.4,100,None,Cfa,Humid subtropical,Shrubland,12.7,3.1,215,Autumn,,0,58
+GE_0195,14/11/2024,Georgia,Kutaisi,9.2,65,0,76,None,Cfb,Humid subtropical,Shrubland,9.2,4.4,102,Autumn,"22,037",0,53
+GE_0196,15/11/2024,Georgia,Tbilisi,17.0,81,3.3,75,None,Cfa,Temperate,Forest,17.0,4.7,20,Autumn,169935,0,61
+GE_0197,16/11/2024,Georgia,Batumi,12.7,70,0,102,None,Cfb,Humid subtropical,Shrubland,12.7,6.1,85,Autumn,15254,0,46
+GE_0198,17/11/2024,Georgia,Kutaisi,10.2,70,0,72,None,NA,Temperate,Shrubland,10.2,11.6,357,Autumn,7872,0,39
+GE_0199,18/11/2024,Georgia,Tbilisi,8.0,46,0,71,None,Cfa,Humid subtropical,Urban,8.0,4.9,259,Autumn,172337,0,54
+GE_0200,19/11/2024,Georgia,Batumi,9.0,97,0,74,None,Cfb,Humid subtropical,Forest,9.0,6.1,325,Autumn,10066,0,62
+GE_0201,20/11/2024,Georgia,Kutaisi,8.0,61,4.6,49,None,Cfb,Temperate,Urban,8.0,14.2,228,Autumn,12588,0,46
+GE_0202,21/11/2024,Georgia,Tbilisi,10.6,36,9.4,114,None,Cfa,Humid subtropical,Forest,10.6,11.2,289,Autumn,79015,0,50
+GE_0203,22/11/2024,Georgia,Batumi,12.8,65,0,98,None,Cfb,Humid subtropical,Shrubland,12.8,14.5,11,Autumn,,0,48
+GE_0204,23/11/2024,Georgia,Kutaisi,12.0,57,3.9,71,None,Cfa,Humid subtropical,,12.0,10.9,76,Autumn,18251,0,
+GE_0205,24/11/2024,Georgia,Tbilisi,15.2,63,4.5,74,None,Cfa,Humid subtropical,Forest,15.2,9.7,320,Autumn,61564,0,63
+GE_0206,25/11/2024,Georgia,Batumi,13.2,90,0,101,None,Cfa,Temperate,Forest,13.2,5.0,57,Autumn,22599,13615,47
+GE_0207,26/11/2024,Georgia,Kutaisi,11.9,65,0,79,None,Cfa,Temperate,Urban,11.9,11.6,2,Autumn,13997,0,41
+GE_0208,27/11/2024,Georgia,Tbilisi,9.2,75,1.8,65,None,Cfb,Temperate,Urban,9.2,9.2,55,Autumn,103255,11485,57
+GE_0209,28/11/2024,Georgia,Batumi,13.1,67,0,88,Storm,Cfb,Temperate,Shrubland,13.1,24.5,328,Autumn,36147,332051,41
+GE_0210,29/11/2024,Georgia,Kutaisi,15.9,66,2.2,,None,Cfa,Humid subtropical,Urban,15.9,14.9,112,Autumn,10978,0,45
+GE_0211,30/11/2024,Georgia,Tbilisi,15.2,54,0,59,None,Cfa,Temperate,Urban,15.2,10.4,319,Autumn,91575,0,51
+GE_0212,1/12/2024,Georgia,Batumi,2.5,57,6.2,46,None,Cfb,Humid subtropical,Shrubland,2.5,2.5,259,Winter,22179,10646,48
+GE_0213,2/12/2024,Georgia,Kutaisi,-3.4,46,0,68,Cold Wave,Cfb,Temperate,Forest,-3.4,14.8,51,Winter,31890,254981,94
+GE_0214,3/12/2024,Georgia,Tbilisi,0.3,65,0,70,None,Cfb,Humid subtropical,Shrubland,0.3,2.3,150,Winter,99565,0,52
+GE_0215,4/12/2024,Georgia,Batumi,-2.8,66,0,50,None,Cfa,Temperate,Urban,-2.8,4.6,2,Winter,11313,0,54
+GE_0215,4/12/2024,Georgia,Batumi,-2.8,66,0,50,None,Cfa,Temperate,Urban,-2.8,4.6,2,Winter,11313,0,54
+GE_0216,5/12/2024,Georgia,Kutaisi,4.0,63,2.1,91,None,Cfa,Humid subtropical,Shrubland,4.0,10.2,0,Winter,17147,0,40
+GE_0217,6/12/2024,Georgia,Tbilisi,-1.6,40,3.4,91,None,Cfb,Humid subtropical,NA,-1.6,13.9,9,Winter,143318,0,55
+GE_0218,7/12/2024,Georgia,Batumi,2.9,98,NA,59,None,Cfb,Humid subtropical,Forest,,14.3,263,Winter,18821,0,
+GE_0219,8/12/2024,Georgia,Kutaisi,4.2,39,0.5,58,Flood,Cfa,NA,Urban,4.2,7.1,101,,36209,96215,NA
+GE_0220,9/12/2024,Georgia,Tbilisi,1.0,64,3.4,95,None,Cfb,Humid subtropical,Forest,1.0,11.3,58,Winter,143338,42411,47
+GE_0221,10/12/2024,Georgia,Batumi,3.7,53,0,85,None,Cfa,Temperate,Forest,3.7,14.7,186,Winter,18156,0,54
+GE_0222,11/12/2024,Georgia,Kutaisi,2.2,58,14.8,94,None,Cfb,Humid subtropical,Shrubland,2.2,9.9,325,Winter,8595,0,50
+GE_0223,12/12/2024,Georgia,Tbilisi,2.5,82,0,113,None,Cfa,Humid subtropical,Shrubland,2.5,7.1,223,Winter,90858,0,45
+GE_0224,13/12/2024,Georgia,Batumi,1.8,55,11.1,57,None,Cfa,Temperate,Shrubland,1.8,10.0,295,Winter,13917,0,64
+GE_0224,13/12/2024,Georgia,Batumi,1.8,55,11.1,57,None,Cfa,Temperate,Shrubland,1.8,10.0,295,Winter,13917,0,64
+GE_0225,14/12/2024,Georgia,Kutaisi,3.8,56,0,89,None,Cfa,Humid subtropical,Shrubland,3.8,10.9,85,Winter,8166,0,63
+GE_0226,15/12/2024,Georgia,Tbilisi,-2.3,36,0,78,None,Cfb,Humid subtropical,Shrubland,-2.3,5.9,353,Winter,117456,0,63
+GE_0227,16/12/2024,Georgia,Batumi,-2.1,92,0,68,Storm,Cfa,Temperate,Urban,-2.1,21.1,330,Winter,14670,0,65
+GE_0228,17/12/2024,Georgia,Kutaisi,-0.4,43,0,81,None,Cfa,Humid subtropical,Urban,NA,6.7,300,Winter,10458,8720,45
+GE_0229,18/12/2024,Georgia,Tbilisi,-0.1,52,0,71,None,Cfb,Humid subtropical,Forest,-0.1,12.0,38,Winter,158555,0,47
+GE_0230,19/12/2024,Georgia,Batumi,1.1,82,0,86,None,Cfa,Temperate,Urban,1.1,9.0,NA,Winter,20643,0,61
+GE_0231,20/12/2024,Georgia,Kutaisi,3.4,58,0,97,None,Cfa,Temperate,Forest,3.4,13.3,239,Winter,18396,0,45
+GE_0232,21/12/2024,Georgia,Tbilisi,0.5,80,10.4,66,None,Cfa,Humid subtropical,Forest,0.5,13.6,143,Winter,136876,0,61
+GE_0233,22/12/2024,Georgia,Batumi,2.0,54,9.5,60,None,Cfa,Temperate,Forest,2.0,10.9,69,Winter,12565,25706,36
+GE_0234,23/12/2024,Georgia,Kutaisi,-0.4,85,0,50,Cold Wave,Cfa,Humid subtropical,Shrubland,-0.4,13.3,180,Winter,60543,681065,74
+GE_0235,24/12/2024,Georgia,Tbilisi,-0.5,61,0,117,None,Cfb,Temperate,Shrubland,-0.5,3.2,34,Winter,100472,0,36
+GE_0236,25/12/2024,Georgia,Batumi,5.4,52,0,95,None,Cfb,Humid subtropical,Shrubland,5.4,8.5,334,Winter,9753,0,60
+GE_0237,26/12/2024,Georgia,Kutaisi,5.6,83,NA,109,None,Cfb,Humid subtropical,Shrubland,5.6,2.4,157,Winter,10119,0,61
+GE_0238,27/12/2024,Georgia,Tbilisi,-4.0,79,0,66,None,Cfa,Temperate,Urban,-4.0,14.0,194,Winter,119042,0,50
+GE_0239,28/12/2024,Georgia,Batumi,1.8,95,8.6,61,None,Cfa,Temperate,Forest,1.8,6.9,96,NA,11187,0,45
+GE_0240,29/12/2024,Georgia,Kutaisi,-1.6,62,3.7,64,None,Cfa,Humid subtropical,Forest,-1.6,9.0,238,Winter,17708,0,53
+GE_0241,30/12/2024,Georgia,Tbilisi,NA,38,0,62,None,Cfa,Temperate,,-2.7,14.5,198,Winter,133181,0,44
+GE_0241,30/12/2024,Georgia,Tbilisi,NA,38,0,62,None,Cfa,Temperate,,-2.7,14.5,198,Winter,133181,0,44
+GE_0242,31/12/2024,Georgia,Batumi,-3.5,79,41.4,48,None,Cfa,Temperate,Forest,-3.5,8.2,49,Winter,20191,0,50
+GE_0243,1/1/2025,Georgia,Kutaisi,5.2,46,0,94,None,Cfb,Temperate,Forest,5.2,14.5,221,Winter,19346,0,43
+GE_0244,2/1/2025,Georgia,Tbilisi,3.7,84,6.6,97,None,Cfb,Humid subtropical,Urban,3.7,8.7,104,Winter,107936,0,55
+GE_0245,3/1/2025,Georgia,Batumi,-3.7,60,0,67,None,NA,Humid subtropical,,,9.5,184,Winter,8634,0,55
+GE_0246,4/1/2025,Georgia,Kutaisi,-1.1,78,4.7,99,None,Cfb,Humid subtropical,Urban,-1.1,10.1,197,Winter,11396,0,60
+GE_0247,5/1/2025,Georgia,Tbilisi,-0.6,81,0,79,None,Cfa,Humid subtropical,Shrubland,NA,5.4,165,Winter,173101,0,56
+GE_0248,6/1/2025,Georgia,Batumi,3.8,54,0,55,None,Cfb,Temperate,Shrubland,3.8,4.7,124,Winter,23227,0,47
+GE_0249,7/1/2025,Georgia,Kutaisi,3.3,64,8.4,99,None,Cfb,Temperate,Forest,3.3,13.1,139,Winter,8606,0,39
+GE_0250,8/1/2025,Georgia,Tbilisi,5.6,38,5.3,118,None,Cfb,Temperate,Shrubland,5.6,7.6,322,Winter,107531,0,61
+GE_0251,9/1/2025,Georgia,Batumi,1.3,75,4.6,73,,,Humid subtropical,Shrubland,1.3,14.2,296,Winter,22741,0,44
+GE_0252,10/1/2025,Georgia,Kutaisi,,45,1.7,103,None,Cfb,Temperate,Urban,2.2,13.9,349,Winter,16330,0,64
+GE_0253,11/1/2025,Georgia,Tbilisi,0.0,63,0.8,75,None,Cfa,Humid subtropical,Shrubland,0.0,7.8,309,Winter,167233,0,60
+GE_0254,12/1/2025,Georgia,Batumi,,73,0,89,None,NA,Temperate,Shrubland,,12.0,197,Winter,12820,0,59
+GE_0255,13/1/2025,Georgia,Kutaisi,3.7,76,21.5,79,None,Cfb,Temperate,Urban,3.7,4.2,157,Winter,17471,0,64
+GE_0255,13/1/2025,Georgia,Kutaisi,3.7,76,21.5,79,None,Cfb,Temperate,Urban,3.7,4.2,157,Winter,17471,0,64
+GE_0256,14/1/2025,Georgia,Tbilisi,-1.6,68,0,77,None,Cfa,Temperate,Shrubland,-1.6,5.3,299,Winter,164356,5653,62
+GE_0257,15/1/2025,Georgia,Batumi,-3.0,76,9.7,80,None,Cfb,Humid subtropical,Urban,-3.0,3.5,108,Winter,9457,25841,42
+GE_0258,16/1/2025,Georgia,Kutaisi,-3.6,81,7.8,74,None,Cfb,Humid subtropical,Shrubland,-3.6,2.4,72,Winter,20545,0,46
+GE_0259,17/1/2025,Georgia,Tbilisi,0.2,77,,96,None,Cfb,Temperate,Shrubland,0.2,NA,116,Winter,150461,0,55
+GE_0260,18/1/2025,Georgia,Batumi,-2.3,63,0,49,None,Cfb,Temperate,Shrubland,-2.3,8.7,242,Winter,12969,0,45
+GE_0261,2025-01-19,Georgia,Kutaisi,0.8,54,0,110,None,Cfa,Temperate,Urban,0.8,11.5,241,Winter,16737,0,35
+GE_0262,20/1/2025,Georgia,Tbilisi,2.2,65,0,109,Cold Wave,Cfb,Temperate,Shrubland,2.2,9.2,114,Winter,252073,64936,51
+GE_0263,21/1/2025,Georgia,Batumi,0.5,98,0,87,None,Cfb,Temperate,Urban,0.5,4.9,31,Winter,8321,0,41
+GE_0264,22/1/2025,Georgia,Kutaisi,5.3,54,0,80,None,Cfa,Humid subtropical,Shrubland,5.3,7.0,211,Winter,19057,NA,37
+GE_0265,23/1/2025,Georgia,Tbilisi,-2.0,46,0,69,Storm,Cfb,Temperate,Shrubland,-2.0,15.2,175,Winter,342413,1862259,57
+GE_0266,24/1/2025,Georgia,Batumi,2.1,75,0,70,None,Cfb,Temperate,Urban,2.1,10.4,144,Winter,21243,0,57
+GE_0267,25/1/2025,Georgia,Kutaisi,-3.6,50,1.5,103,None,Cfb,Humid subtropical,Shrubland,-3.6,11.9,294,Winter,9133,0,43
+GE_0268,26/1/2025,Georgia,Tbilisi,5.6,NA,0,89,None,Cfb,Temperate,Urban,5.6,3.7,132,Winter,161733,0,40
+GE_0269,27/1/2025,Georgia,Batumi,4.9,54,0,46,None,Cfa,Temperate,Shrubland,4.9,3.0,307,Winter,9800,0,47
+GE_0270,28/1/2025,Georgia,Kutaisi,3.1,39,21.6,63,None,Cfb,Temperate,Urban,3.1,3.6,321,Winter,12152,49862,46
+GE_0271,29/1/2025,Georgia,Tbilisi,-0.4,80,NA,73,None,Cfb,NA,Forest,-0.4,12.3,214,Winter,121746,0,51
+GE_0272,30/1/2025,Georgia,Batumi,0.4,68,3.0,80,None,Cfb,Humid subtropical,Shrubland,0.4,5.0,292,Winter,17311,0,60
+GE_0273,31/1/2025,Georgia,Kutaisi,4.4,50,0,NA,None,NA,Temperate,Forest,4.4,10.5,144,Winter,10291,0,53
+GE_0274,1/2/2025,Georgia,Tbilisi,-4.1,51,0,69,None,Cfa,Humid subtropical,Shrubland,-4.1,4.7,99,Winter,61915,0,48
+GE_0275,2/2/2025,Georgia,Batumi,-2.8,97,0,53,Cold Wave,Cfa,Humid subtropical,Shrubland,-2.8,8.4,113,Winter,34209,80144,37
+GE_0276,3/2/2025,Georgia,Kutaisi,-2.2,77,0,55,None,Cfa,Temperate,Shrubland,-2.2,6.7,313,Winter,15932,0,44
+GE_0277,4/2/2025,Georgia,Tbilisi,3.6,52,3.0,86,None,Cfb,Humid subtropical,Urban,3.6,14.3,259,Winter,65945,0,35
+GE_0278,5/2/2025,Georgia,Batumi,-1.5,58,0,79,None,Cfa,Temperate,Forest,-1.5,5.8,50,Winter,13913,32853,59
+GE_0279,6/2/2025,Georgia,Kutaisi,4.2,48,0,57,None,Cfa,Humid subtropical,Shrubland,4.2,7.3,0,Winter,19556,0,50
+GE_0280,7/2/2025,Georgia,Tbilisi,-1.1,80,0,95,None,Cfb,Humid subtropical,Forest,-1.1,15.0,209,Winter,141993,0,38
+GE_0281,8/2/2025,Georgia,Batumi,-2.7,57,0,61,None,Cfa,Humid subtropical,Urban,-2.7,14.7,,,19066,0,63
+GE_0282,9/2/2025,Georgia,Kutaisi,-2.5,82,1.9,94,None,Cfb,Temperate,Shrubland,-2.5,13.7,228,Winter,10244,0,60
+GE_0283,10/2/2025,Georgia,Tbilisi,-1.5,72,0,69,None,Cfb,Temperate,Urban,-1.5,14.4,293,Winter,107700,0,56
+GE_0284,11/2/2025,Georgia,Batumi,2.2,64,0,80,None,Cfa,Humid subtropical,Forest,2.2,3.1,0,Winter,8408,0,38
+GE_0285,12/2/2025,Georgia,Kutaisi,0.4,65,0,84,None,Cfb,Temperate,Shrubland,0.4,13.5,241,Winter,18885,0,64
+GE_0286,13/2/2025,Georgia,Tbilisi,0.1,57,0,NA,None,NA,Humid subtropical,Urban,0.1,6.8,276,Winter,75871,0,40
+GE_0287,14/2/2025,Georgia,Batumi,4.4,57,20.7,82,None,Cfa,Temperate,Urban,4.4,3.4,334,Winter,9439,0,42
+GE_0288,15/2/2025,Georgia,Kutaisi,-3.4,43,18.5,54,None,Cfa,Temperate,Forest,-3.4,7.1,14,Winter,13560,0,44
+GE_0289,16/2/2025,Georgia,Tbilisi,4.0,68,0,81,None,Cfb,Humid subtropical,Urban,4.0,8.9,69,Winter,126333,36896,52
+GE_0290,17/2/2025,Georgia,Batumi,2.5,77,3.2,72,None,Cfa,Temperate,Urban,2.5,12.6,112,Winter,11218,0,38
+GE_0291,18/2/2025,Georgia,Kutaisi,0.1,72,0,70,None,Cfb,Humid subtropical,Forest,0.1,11.8,52,Winter,8568,0,52
+GE_0292,19/2/2025,Georgia,Tbilisi,-2.5,64,0.1,104,None,Cfa,Temperate,Forest,-2.5,2.3,334,Winter,104986,48222,46
+GE_0293,20/2/2025,Georgia,Batumi,-0.7,89,4.1,98,None,Cfb,Humid subtropical,Forest,-0.7,6.2,329,Winter,14261,0,51
+GE_0294,21/2/2025,Georgia,Kutaisi,0.7,82,3.2,92,None,Cfa,Humid subtropical,Shrubland,0.7,8.6,357,Winter,16923,NA,65
+GE_0295,22/2/2025,Georgia,Tbilisi,-2.4,63,0,74,None,Cfb,Humid subtropical,Shrubland,-2.4,14.4,42,Winter,103634,0,58
+GE_0296,23/2/2025,Georgia,Batumi,2.7,,5.3,,None,Cfa,Humid subtropical,Urban,2.7,4.4,22,Winter,11741,48948,40
+GE_0297,24/2/2025,Georgia,Kutaisi,-0.2,81,0,,None,Cfb,NA,Forest,-0.2,13.4,131,Winter,"9,508",0,52
+GE_0298,25/2/2025,Georgia,Tbilisi,3.3,81,0,111,None,Cfa,Humid subtropical,Shrubland,3.3,10.0,351,Winter,86406,0,62
+GE_0299,26/2/2025,Georgia,Batumi,-1.1,94,30.8,72,None,Cfb,Humid subtropical,Urban,-1.1,10.0,42,Winter,"11,938",0,42
+GE_0300,27/2/2025,Georgia,Kutaisi,3.7,82,0.4,70,None,Cfa,Humid subtropical,Shrubland,3.7,3.2,74,Winter,18294,0,49
+GE_0301,28/2/2025,Georgia,Tbilisi,0.7,84,1.4,94,Storm,Cfa,Temperate,Urban,0.7,28.0,13,Winter,391178,1527248,46
+GE_0301,28/2/2025,Georgia,Tbilisi,0.7,84,1.4,94,Storm,Cfa,Temperate,Urban,0.7,28.0,13,Winter,391178,1527248,46
+GE_0302,1/3/2025,Georgia,Batumi,6.8,83,9.4,92,None,Cfa,Humid subtropical,Forest,6.8,9.8,212,Spring,8035,0,37
+GE_0303,2/3/2025,Georgia,Kutaisi,12.8,63,0,67,Dust Storm,Cfa,Temperate,Urban,12.8,12.6,15,Spring,74192,359244,80
+GE_0304,3/3/2025,Georgia,Tbilisi,7.0,74,3.7,117,None,Cfa,Temperate,Forest,7.0,2.3,311,Spring,77804,0,54
+GE_0305,4/3/2025,Georgia,Batumi,9.3,84,6.1,84,Flood,Cfb,Temperate,Forest,9.3,10.9,195,Spring,43868,562107,53
+GE_0306,5/3/2025,Georgia,Kutaisi,8.1,66,NA,90,None,Cfb,Humid subtropical,,8.1,10.2,83,Spring,13419,NA,48
+GE_0307,6/3/2025,Georgia,Tbilisi,5.8,80,0,90,None,Cfa,Temperate,Urban,5.8,4.0,143,Spring,178661,0,38
+GE_0308,7/3/2025,Georgia,Batumi,10.5,NA,54.1,98,None,Cfb,Humid subtropical,Forest,10.5,4.8,55,Spring,23172,0,62
+GE_0309,8/3/2025,Georgia,Kutaisi,11.7,56,0.3,64,None,Cfb,Humid subtropical,Urban,11.7,4.8,9,Spring,10037,44052,39
+GE_0310,9/3/2025,Georgia,Tbilisi,8.8,55,1.1,118,None,Cfb,Humid subtropical,Urban,8.8,6.8,266,Spring,151326,11788,51
+GE_0311,10/3/2025,Georgia,Batumi,12.2,62,0,104,None,Cfa,Temperate,Urban,12.2,3.5,220,Spring,12811,0,59
+GE_0312,11/3/2025,Georgia,Kutaisi,8.0,39,24.2,94,None,Cfb,Temperate,Shrubland,8.0,7.0,114,Spring,10095,0,53
+GE_0313,12/3/2025,Georgia,Tbilisi,3.1,55,0,120,Flood,Cfb,Temperate,Shrubland,3.1,9.3,336,Spring,177476,1363922,49
+GE_0314,13/3/2025,Georgia,Batumi,6.5,90,0,95,None,Cfb,Humid subtropical,Urban,6.5,9.3,134,Spring,13046,0,45
+GE_0315,14/3/2025,Georgia,Kutaisi,4.4,35,0,55,None,Cfb,Humid subtropical,Urban,4.4,12.3,27,Spring,12413,0,52
+GE_0316,15/3/2025,Georgia,Tbilisi,10.1,45,0,100,None,Cfa,Temperate,Shrubland,10.1,12.8,316,Spring,86654,36198,64
+GE_0317,16/3/2025,Georgia,Batumi,6.8,82,0,54,None,Cfa,Humid subtropical,Urban,6.8,3.3,64,Spring,15534,0,53
+GE_0318,17/3/2025,Georgia,Kutaisi,4.7,45,17.3,98,None,Cfb,Humid subtropical,Shrubland,4.7,10.8,222,Spring,14694,0,51
+GE_0319,18/3/2025,Georgia,Tbilisi,11.4,84,0,88,,Cfa,Temperate,Urban,11.4,14.4,,Spring,160011,11182,38
+GE_0320,19/3/2025,Georgia,Batumi,6.9,60,0,55,None,Cfa,Humid subtropical,Forest,6.9,3.5,144,Spring,13872,0,59
+GE_0321,20/3/2025,Georgia,Kutaisi,12.8,45,0,92,None,Cfb,Humid subtropical,Urban,12.8,3.9,245,Spring,7755,0,45
+GE_0322,21/3/2025,Georgia,Tbilisi,4.6,55,0,108,None,Cfa,Humid subtropical,Urban,4.6,12.7,322,Spring,111415,0,52
+GE_0323,22/3/2025,Georgia,Batumi,3.0,59,9.1,56,None,Cfb,Temperate,Urban,3.0,7.5,313,Spring,15536,0,49
+GE_0324,23/3/2025,Georgia,Kutaisi,5.9,73,0,98,None,Cfb,Humid subtropical,Shrubland,5.9,10.0,64,Spring,18253,0,37
+GE_0325,24/3/2025,Georgia,Tbilisi,7.0,76,0,87,None,Cfb,Temperate,Urban,7.0,13.1,,Spring,,0,55
+GE_0326,25/3/2025,Georgia,Batumi,10.7,88,8.3,105,None,Cfb,Temperate,Shrubland,10.7,12.8,124,Spring,"18,108",0,41
+GE_0327,26/3/2025,Georgia,Kutaisi,4.5,70,2.0,103,Storm,Cfb,Temperate,Shrubland,4.5,21.6,280,Spring,32925,447329,63
+GE_0328,27/3/2025,Georgia,Tbilisi,10.0,39,0,78,None,Cfb,Temperate,Forest,10.0,5.9,344,Spring,NA,,38
+GE_0329,28/3/2025,Georgia,Batumi,11.8,59,0,53,None,Cfb,,Shrubland,11.8,10.3,206,Spring,22420,NA,40
+GE_0330,29/3/2025,Georgia,Kutaisi,5.0,43,0,108,NA,NA,Temperate,Shrubland,5.0,10.4,155,Spring,21683,38279,56
+GE_0331,30/3/2025,Georgia,Tbilisi,12.5,84,4.0,78,,Cfa,Temperate,Shrubland,12.5,8.1,51,,174812,0,52
+GE_0332,31/3/2025,Georgia,Batumi,12.9,64,0,NA,Dust Storm,Cfb,Humid subtropical,Urban,12.9,14.1,NA,Spring,35691,1899447,
+GE_0333,1/4/2025,Georgia,Kutaisi,5.9,72,3.0,104,None,Cfb,Humid subtropical,Forest,5.9,9.3,313,Spring,8752,0,56
+GE_0334,2/4/2025,Georgia,Tbilisi,7.8,68,4.4,119,None,Cfa,Temperate,Urban,7.8,13.1,81,Spring,97059,0,46
+GE_0335,3/4/2025,Georgia,Batumi,NA,79,0,NA,,Cfb,Humid subtropical,Urban,9.6,10.5,106,Spring,20338,0,41
+GE_0336,4/4/2025,Georgia,Kutaisi,12.2,74,0,61,None,Cfa,Humid subtropical,Shrubland,12.2,4.6,318,Spring,14491,0,36
+GE_0337,5/4/2025,Georgia,Tbilisi,4.8,56,0,102,None,Cfb,Humid subtropical,Shrubland,4.8,8.5,73,Spring,136869,0,49
+GE_0338,6/4/2025,Georgia,Batumi,6.4,55,6.9,59,None,Cfa,Temperate,Shrubland,6.4,5.5,341,Spring,9990,7521,63
+GE_0339,7/4/2025,Georgia,Kutaisi,8.3,47,0,71,None,Cfb,Temperate,Forest,8.3,3.3,80,Spring,16105,40616,60
+GE_0340,8/4/2025,Georgia,Tbilisi,10.8,80,5.0,95,None,Cfb,Temperate,Forest,10.8,10.8,231,Spring,146885,16341,63
+GE_0341,9/4/2025,Georgia,Batumi,9.1,NA,51.1,94,Storm,Cfa,Humid subtropical,Shrubland,9.1,20.9,107,Spring,39639,20384,58
+GE_0342,10/4/2025,Georgia,Kutaisi,7.6,49,3.8,64,None,Cfb,Temperate,Forest,7.6,9.8,182,Spring,21982,26674,41
+GE_0343,11/4/2025,Georgia,Tbilisi,6.7,73,0.4,115,None,Cfa,Temperate,Urban,6.7,13.5,50,Spring,82904,0,55
+GE_0343,11/4/2025,Georgia,Tbilisi,6.7,73,0.4,115,None,Cfa,Temperate,Urban,6.7,13.5,50,Spring,82904,0,55
+GE_0344,2025-04-12,Georgia,Batumi,3.3,74,8.0,58,None,Cfa,Humid subtropical,Shrubland,3.3,7.2,166,Spring,13612,0,58
+GE_0345,13/4/2025,Georgia,Kutaisi,8.7,41,1.7,71,None,Cfb,Temperate,Urban,8.7,10.6,136,Spring,"12,458",0,44
+GE_0346,14/4/2025,Georgia,Tbilisi,6.1,77,0,87,None,Cfa,Temperate,Forest,6.1,3.4,55,Spring,153947,0,60
+GE_0347,15/4/2025,Georgia,Batumi,9.0,97,6.5,98,None,Cfa,Humid subtropical,Shrubland,9.0,8.8,341,Spring,19456,38532,41
+GE_0348,16/4/2025,Georgia,Kutaisi,6.8,84,0,65,None,Cfb,Temperate,Urban,6.8,7.8,260,Spring,20185,0,47
+GE_0349,17/4/2025,Georgia,Tbilisi,6.3,65,1.1,105,None,Cfb,Temperate,Forest,6.3,9.2,285,Spring,93773,0,37
+GE_0350,18/4/2025,Georgia,Batumi,5.5,85,0,94,None,Cfa,Temperate,Forest,5.5,10.4,108,Spring,12175,1765,36
+GE_0351,19/4/2025,Georgia,Kutaisi,6.4,70,0,76,None,Cfa,Temperate,Urban,6.4,6.0,11,Spring,16630,0,58
+GE_0352,20/4/2025,Georgia,Tbilisi,12.3,71,25.9,122,Flood,Cfb,Humid subtropical,Shrubland,12.3,14.8,256,Spring,439842,80654,63
+GE_0353,21/4/2025,Georgia,Batumi,6.2,80,0,57,None,Cfb,Humid subtropical,Urban,6.2,2.5,47,Spring,17140,0,45
+GE_0354,22/4/2025,Georgia,Kutaisi,7.1,40,0,77,None,Cfa,Humid subtropical,NA,7.1,4.1,NA,Spring,8378,16840,54
+GE_0355,23/4/2025,Georgia,Tbilisi,8.2,80,20.7,76,None,Cfb,Temperate,Shrubland,8.2,13.8,302,Spring,172875,0,47
+GE_0356,24/4/2025,Georgia,Batumi,9.0,55,0,79,None,Cfb,Temperate,Forest,9.0,5.8,135,Spring,10710,0,54
+GE_0357,25/4/2025,Georgia,Kutaisi,6.0,65,0,96,None,Cfa,Temperate,Urban,6.0,2.4,146,Spring,18914,20142,46
+GE_0358,26/4/2025,Georgia,Tbilisi,7.4,38,4.9,86,None,Cfb,Humid subtropical,Urban,7.4,13.9,171,Spring,161873,0,35
+GE_0358,26/4/2025,Georgia,Tbilisi,7.4,38,4.9,86,None,Cfb,Humid subtropical,Urban,7.4,13.9,171,Spring,161873,0,35
+GE_0359,27/4/2025,Georgia,Batumi,5.5,86,,74,None,NA,Humid subtropical,Urban,5.5,13.5,334,Spring,20264,NA,37
+GE_0360,28/4/2025,Georgia,Kutaisi,6.3,58,2.7,89,None,Cfb,Humid subtropical,Shrubland,6.3,2.4,233,Spring,13016,0,51
+GE_0361,29/4/2025,Georgia,Tbilisi,6.5,38,3.2,101,None,Cfa,Temperate,Urban,6.5,9.1,234,Spring,127687,0,41
+GE_0362,30/4/2025,Georgia,Batumi,10.2,50,0.5,64,None,Cfa,Humid subtropical,Urban,10.2,3.5,320,Spring,"16,446","30,414",48
+GE_0363,1/5/2025,Georgia,Kutaisi,11.7,55,12.7,57,Flood,Cfa,Temperate,Forest,11.7,7.4,108,Spring,29785,386913,68
+GE_0364,2/5/2025,Georgia,Tbilisi,11.1,64,0,105,None,NA,Humid subtropical,,11.1,10.3,8,Spring,110369,0,50
+GE_0365,3/5/2025,Georgia,Batumi,7.4,96,7.6,105,None,Cfa,Humid subtropical,Forest,7.4,10.8,173,Spring,17698,0,64
+GE_0366,4/5/2025,Georgia,Kutaisi,3.7,39,0,106,None,Cfa,Temperate,Urban,3.7,6.0,252,Spring,15863,0,54
+GE_0367,2025-05-05,Georgia,Tbilisi,12.0,76,1.1,76,None,NA,Temperate,Urban,12.0,,132,Spring,124890,38081,58
+GE_0368,6/5/2025,Georgia,Batumi,3.7,98,2.5,74,None,Cfa,Humid subtropical,Shrubland,3.7,3.5,32,Spring,11532,0,35
+GE_0369,7/5/2025,Georgia,Kutaisi,12.6,52,0,113,None,Cfb,Temperate,Urban,12.6,7.3,173,Spring,7649,0,39
+GE_0370,8/5/2025,Georgia,Tbilisi,3.5,79,1.4,97,None,Cfa,Humid subtropical,Shrubland,3.5,3.3,227,Spring,,0,60
+GE_0371,9/5/2025,Georgia,Batumi,8.7,93,4.4,52,None,Cfb,Humid subtropical,Forest,8.7,3.2,26,,19467,0,53
+GE_0372,10/5/2025,Georgia,Kutaisi,10.5,84,0,65,None,Cfa,Temperate,Shrubland,10.5,12.5,85,Spring,15593,17542,53
+GE_0373,11/5/2025,Georgia,Tbilisi,10.5,57,0,73,None,Cfb,Humid subtropical,Urban,10.5,10.5,305,NA,163544,0,49
+GE_0374,12/5/2025,Georgia,Batumi,8.6,84,0,99,None,Cfb,Temperate,Urban,8.6,9.5,130,Spring,19734,0,57
+GE_0375,13/5/2025,Georgia,Kutaisi,12.2,58,0,62,None,Cfb,Temperate,Shrubland,12.2,9.7,199,Spring,12295,0,51
+GE_0376,14/5/2025,Georgia,Tbilisi,11.6,60,0,121,None,Cfb,Temperate,Urban,11.6,13.1,305,Spring,149840,0,62
+GE_0376,14/5/2025,Georgia,Tbilisi,11.6,60,0,121,None,Cfb,Temperate,Urban,11.6,13.1,305,Spring,149840,0,62
+GE_0377,15/5/2025,Georgia,Batumi,8.5,63,0,53,None,Cfa,Humid subtropical,Forest,8.5,10.4,139,Spring,15467,0,64
+GE_0378,16/5/2025,Georgia,Kutaisi,3.6,55,0,58,None,Cfb,Temperate,Shrubland,3.6,4.7,132,Spring,15123,0,58
+GE_0379,17/5/2025,Georgia,Tbilisi,7.6,72,0,72,None,Cfb,Temperate,Urban,7.6,12.5,78,Spring,76078,0,45
+GE_0380,18/5/2025,Georgia,Batumi,13.1,59,3.5,100,None,Cfa,Temperate,Urban,13.1,5.6,268,Spring,20144,0,65
+GE_0381,19/5/2025,Georgia,Kutaisi,9.5,84,0,95,None,Cfb,Humid subtropical,Forest,9.5,4.8,300,Spring,16660,0,63
+GE_0382,20/5/2025,Georgia,Tbilisi,3.4,62,2.8,91,None,Cfb,Temperate,Urban,3.4,11.4,91,Spring,76388,0,57
+GE_0383,21/5/2025,Georgia,Batumi,7.7,58,26.1,94,Flood,Cfb,Temperate,Shrubland,7.7,11.1,56,Spring,41397,165095,57
+GE_0384,22/5/2025,Georgia,Kutaisi,8.7,38,0,92,None,Cfa,Temperate,Forest,8.7,9.5,168,Spring,12363,0,44
+GE_0385,23/5/2025,Georgia,Tbilisi,11.4,45,4.1,119,None,Cfa,Humid subtropical,Shrubland,11.4,8.9,285,Spring,132582,0,44
+GE_0386,24/5/2025,Georgia,Batumi,7.1,66,4.6,99,None,Cfa,Temperate,Shrubland,7.1,13.9,56,Spring,17627,0,44
+GE_0387,25/5/2025,Georgia,Kutaisi,10.4,71,0,71,None,Cfa,NA,Urban,10.4,,103,Spring,,0,50
+GE_0388,26/5/2025,Georgia,Tbilisi,8.6,40,0,118,None,Cfb,Humid subtropical,Forest,8.6,13.4,177,Spring,164017,0,63
+GE_0389,27/5/2025,Georgia,Batumi,9.1,78,54.7,76,None,Cfb,Humid subtropical,Shrubland,9.1,3.7,345,Spring,17013,0,48
+GE_0390,28/5/2025,Georgia,Kutaisi,8.9,63,0,99,None,Cfa,Humid subtropical,Forest,8.9,14.4,244,Spring,17588,0,54
+GE_0391,29/5/2025,Georgia,Tbilisi,6.5,43,0,99,None,Cfa,Humid subtropical,Forest,6.5,7.6,313,Spring,101969,21538,46
+GE_0392,30/5/2025,Georgia,Batumi,11.6,96,9.4,78,None,Cfb,Temperate,Shrubland,11.6,12.6,4,Spring,14984,0,62
+GE_0393,31/5/2025,Georgia,Kutaisi,6.9,80,0,101,None,Cfa,Temperate,Forest,6.9,5.7,113,Spring,10339,0,48
+GE_0394,1/6/2025,Georgia,Tbilisi,26.9,71,0,108,None,Cfa,Temperate,Forest,26.9,11.3,245,Summer,71166,0,42
+GE_0395,2/6/2025,Georgia,Batumi,29.2,67,0,63,None,Cfa,Humid subtropical,Forest,32.6,13.3,87,Summer,8590,0,46
+GE_0396,3/6/2025,Georgia,Kutaisi,32.5,83,0,115,None,Cfb,Humid subtropical,Urban,47.6,5.6,7,Summer,17592,0,40
+GE_0397,4/6/2025,Georgia,Tbilisi,28.4,65,0,118,None,Cfa,Temperate,Shrubland,30.7,5.3,46,Summer,128428,0,39
+GE_0398,5/6/2025,Georgia,Batumi,33.0,93,0,88,None,Cfa,Temperate,,55,13.6,308,Summer,16814,,36
+GE_0399,6/6/2025,Georgia,Kutaisi,30.7,56,0,62,Wildfire,Cfb,Humid subtropical,Forest,33.3,10.3,183,Summer,13127,1200515,60
+GE_0400,7/6/2025,Georgia,Tbilisi,29.3,69,0,112,None,Cfb,Temperate,Shrubland,33.2,2.9,322,Summer,68459,0,43
+GE_0401,2025-06-08,Georgia,Batumi,25.7,79,0,103,None,Cfb,Humid subtropical,Shrubland,25.7,7.1,195,Summer,17035,0,55
+GE_0402,9/6/2025,Georgia,Kutaisi,28.9,59,0,71,None,Cfb,Temperate,Shrubland,30.7,13.2,5,Summer,18306,0,51
+GE_0403,10/6/2025,Georgia,Tbilisi,25.5,76,1.7,83,None,Cfa,Temperate,Urban,25.5,12.5,212,Summer,92370,0,42
+GE_0404,11/6/2025,Georgia,Batumi,24.3,54,4.6,73,None,Cfb,Temperate,Forest,24.3,6.5,33,Summer,22202,0,41
+GE_0405,12/6/2025,Georgia,Kutaisi,31.4,49,0,106,None,Cfb,Humid subtropical,Urban,33.1,5.7,140,Summer,10590,9170,64
+GE_0406,13/6/2025,Georgia,Tbilisi,24.7,65,,116,None,NA,Temperate,Forest,NA,6.3,14,Summer,177706,0,60
+GE_0407,14/6/2025,Georgia,Batumi,32.0,84,0,87,,Cfa,Humid subtropical,Shrubland,46.1,10.5,50,Summer,15810,16470,45
+GE_0408,15/6/2025,Georgia,Kutaisi,28.7,72,0,76,None,Cfb,Humid subtropical,Shrubland,32.4,14.8,,Summer,15204,29310,NA
+GE_0409,16/6/2025,Georgia,Tbilisi,24.9,56,0,76,None,Cfb,Temperate,Forest,24.9,2.7,192,Summer,NA,24161,38
+GE_0409,16/6/2025,Georgia,Tbilisi,24.9,56,0,76,None,Cfb,Temperate,Forest,24.9,2.7,192,Summer,NA,24161,38
+GE_0410,17/6/2025,Georgia,Batumi,23.9,84,0,106,None,Cfa,Humid subtropical,Urban,23.9,4.1,347,Summer,"12,939",0,47
+GE_0411,18/6/2025,Georgia,Kutaisi,27.0,78,5.0,101,Heatwave,Cfb,Humid subtropical,Urban,29.6,2.3,210,Summer,34319,95033,56
+GE_0412,19/6/2025,Georgia,Tbilisi,25.3,81,2.2,118,None,Cfb,Temperate,Urban,25.3,8.7,155,Summer,93998,0,39
+GE_0413,20/6/2025,Georgia,Batumi,28.3,69,5.3,84,None,Cfb,Humid subtropical,Urban,31.1,13.6,96,Summer,10960,0,64
+GE_0414,21/6/2025,Georgia,Kutaisi,26.1,37,9.3,67,None,Cfa,Humid subtropical,Shrubland,26.1,5.5,113,Summer,14866,0,65
+GE_0415,22/6/2025,Georgia,Tbilisi,28.4,78,0.9,109,None,Cfb,Humid subtropical,Shrubland,32.8,12.1,249,Summer,98524,43501,50
+GE_0416,23/6/2025,Georgia,Batumi,28.8,84,0,99,None,Cfa,Temperate,Shrubland,35.0,14.5,149,Summer,16877,0,36
+GE_0417,24/6/2025,Georgia,Kutaisi,24.6,56,0,103,None,Cfb,Temperate,Shrubland,24.6,9.3,17,Summer,12546,0,36
+GE_0418,2025-06-25,Georgia,Tbilisi,32.0,64,0.3,97,None,Cfb,Humid subtropical,,NA,9.8,333,Summer,154765,0,NA
+GE_0419,26/6/2025,Georgia,Batumi,24.4,98,5.3,81,Heatwave,Cfb,Temperate,Forest,24.4,5.2,253,Summer,70001,1047409,90
+GE_0420,27/6/2025,Georgia,Kutaisi,24.9,43,0,96,Drought,Cfa,Temperate,Urban,24.9,14.0,347,Summer,25968,104935,38
+GE_0420,27/6/2025,Georgia,Kutaisi,24.9,43,0,96,Drought,Cfa,Temperate,Urban,24.9,14.0,347,Summer,25968,104935,38
+GE_0421,28/6/2025,Georgia,Tbilisi,29.7,81,4.2,85,None,Cfa,Humid subtropical,Forest,37.0,6.8,55,Summer,150182,37335,59
+GE_0422,29/6/2025,Georgia,Batumi,26.0,83,0,65,None,Cfb,Humid subtropical,Shrubland,26.0,8.6,317,Summer,21657,42441,40
+GE_0423,30/6/2025,Georgia,Kutaisi,27.7,61,0,59,Storm,Cfb,Temperate,Urban,29.1,28.7,180,Summer,36342,205919,79
+GE_0424,1/7/2025,Georgia,Tbilisi,29.5,45,2.0,112,None,Cfb,Humid subtropical,Shrubland,29.7,8.6,327,Summer,138574,19361,48
+GE_0425,2/7/2025,Georgia,Batumi,27.7,78,8.4,69,None,Cfa,Temperate,Urban,31.1,3.9,347,Summer,13881,0,54
+GE_0426,3/7/2025,Georgia,Kutaisi,26.2,55,,89,None,Cfa,Humid subtropical,NA,26.2,5.9,143,Summer,10043,34744,52
+GE_0427,4/7/2025,Georgia,Tbilisi,31.4,57,4.7,115,None,Cfa,Humid subtropical,Shrubland,34.9,10.7,262,Summer,150985,0,47
+GE_0428,5/7/2025,Georgia,Batumi,29.6,71,0,64,None,Cfa,Temperate,Urban,34.3,13.5,21,Summer,20322,0,54
+GE_0429,6/7/2025,Georgia,Kutaisi,24.5,57,0,64,None,Cfb,Humid subtropical,Urban,24.5,4.9,352,Summer,17076,30042,48
+GE_0430,7/7/2025,Georgia,Tbilisi,23.9,75,4.6,97,None,Cfa,Temperate,Shrubland,23.9,3.7,25,Summer,68109,0,47
+GE_0431,8/7/2025,Georgia,Batumi,27.9,97,0,98,Heatwave,Cfb,Temperate,Urban,34.7,6.7,173,Summer,24519,77436,79
+GE_0432,9/7/2025,Georgia,Kutaisi,27.5,51,1.7,64,None,Cfb,Humid subtropical,Forest,28.0,12.2,232,Summer,17853,0,39
+GE_0433,10/7/2025,Georgia,Tbilisi,29.3,62,1.4,91,None,Cfa,,NA,31.9,4.9,63,Summer,NA,0,46
+GE_0434,11/7/2025,Georgia,Batumi,32.2,,0,62,None,Cfb,Humid subtropical,Urban,53.0,6.0,92,Summer,21245,0,51
+GE_0435,12/7/2025,Georgia,Kutaisi,30.5,77,0,71,None,Cfb,Humid subtropical,Urban,38.3,14.8,137,Summer,20385,0,46
+GE_0436,13/7/2025,Georgia,Tbilisi,25.2,36,0.9,115,None,Cfb,Humid subtropical,Shrubland,25.2,13.6,212,Summer,100910,0,41
+GE_0437,14/7/2025,Georgia,Batumi,31.9,52,0,68,None,Cfb,Humid subtropical,Shrubland,34.7,5.4,60,Summer,14554,0,43
+GE_0438,15/7/2025,Georgia,Kutaisi,33.2,39,0,102,None,Cfa,Temperate,Urban,NA,7.7,137,Summer,NA,0,58
+GE_0439,16/7/2025,Georgia,Tbilisi,NA,63,0,94,None,Cfa,Temperate,Urban,40.4,2.6,,Summer,178043,0,40
+GE_0440,17/7/2025,Georgia,Batumi,26.5,57,0,67,None,Cfb,Humid subtropical,Urban,26.5,13.5,321,Summer,19070,0,55
+GE_0441,18/7/2025,Georgia,Kutaisi,31.9,71,3.1,78,None,Cfb,Temperate,Shrubland,40.5,2.5,258,Summer,8226,30930,51
+GE_0442,19/7/2025,Georgia,Tbilisi,31.1,69,0,97,Heatwave,Cfb,Temperate,Shrubland,37.6,6.5,244,Summer,433071,1343497,53
+GE_0443,20/7/2025,Georgia,Batumi,25.8,79,35.2,77,None,Cfb,Temperate,Forest,25.8,8.7,163,Summer,,0,47
+GE_0444,21/7/2025,Georgia,Kutaisi,24.4,37,0,101,None,Cfa,Humid subtropical,Forest,24.4,9.5,325,Summer,13042,0,42
+GE_0445,22/7/2025,Georgia,Tbilisi,27.4,47,0,99,,Cfb,Humid subtropical,Urban,27.6,2.3,320,Summer,97958,0,NA
+GE_0446,23/7/2025,Georgia,Batumi,NA,86,0,111,None,Cfa,Temperate,Urban,49.1,10.3,94,Summer,10175,0,57
+GE_0447,24/7/2025,Georgia,Kutaisi,26.3,77,0.6,117,None,Cfb,Temperate,Urban,26.3,9.3,193,Summer,20083,0,38
+GE_0448,25/7/2025,Georgia,Tbilisi,30.8,77,0,74,None,Cfb,Humid subtropical,Shrubland,39.2,14.9,227,Summer,116103,0,62
+GE_0449,26/7/2025,Georgia,Batumi,29.1,78,0,90,None,Cfa,Humid subtropical,Shrubland,34.6,6.1,202,Summer,20081,0,45
+GE_0450,27/7/2025,Georgia,Kutaisi,30.0,64,0,81,None,Cfb,Temperate,Forest,,2.0,256,Summer,"12,493",0,54
+GE_0451,28/7/2025,Georgia,Tbilisi,25.3,62,0,123,None,Cfa,Humid subtropical,Urban,25.3,4.0,16,Summer,65488,20239,65
+GE_0452,29/7/2025,Georgia,Batumi,28.9,82,2.6,77,None,Cfa,Humid subtropical,NA,34.9,5.7,104,Summer,"21,630",0,40
+GE_0453,30/7/2025,Georgia,Kutaisi,,46,,59,Heatwave,Cfa,NA,Urban,23.5,14.7,162,Summer,53820,11820,64
+GE_0454,31/7/2025,Georgia,Tbilisi,31.8,80,0,116,None,Cfa,Temperate,Shrubland,43.6,11.0,300,Summer,146939,0,NA
+GE_0455,1/8/2025,Georgia,Batumi,25.4,86,NA,68,Heatwave,,Temperate,Shrubland,25.4,8.1,316,Summer,37340,402674,92
+GE_0456,2/8/2025,Georgia,Kutaisi,33.3,80,0,117,None,Cfa,Temperate,Shrubland,49.3,12.0,294,Summer,11411,0,45
+GE_0457,3/8/2025,Georgia,Tbilisi,27.1,80,2.8,NA,None,Cfa,,Forest,30.0,3.1,NA,Summer,60688,0,56
+GE_0458,4/8/2025,Georgia,Batumi,31.2,60,2.7,102,None,Cfb,Temperate,Urban,35.3,11.8,163,Summer,20304,6461,62
+GE_0459,5/8/2025,Georgia,Kutaisi,30.2,67,20.5,103,Heatwave,Cfa,Humid subtropical,Urban,34.8,14.0,139,Summer,26130,278086,69
+GE_0460,6/8/2025,Georgia,Tbilisi,27.7,84,1.3,,None,Cfa,Temperate,Urban,31.9,,259,,88290,47465,62
+GE_0461,7/8/2025,Georgia,Batumi,26.1,99,0,73,None,Cfb,Humid subtropical,Shrubland,26.1,11.2,306,Summer,19300,2265,52
+GE_0462,8/8/2025,Georgia,Kutaisi,24.4,48,16.9,97,None,Cfa,Humid subtropical,Forest,24.4,6.8,357,Summer,8446,0,53
+GE_0463,9/8/2025,Georgia,Tbilisi,32.3,NA,4.5,71,None,Cfa,Humid subtropical,NA,37.5,10.0,,Summer,138073,0,63
+GE_0464,10/8/2025,Georgia,Batumi,29.0,71,0,71,None,Cfa,Temperate,Forest,32.9,4.5,319,Summer,19213,0,38
+GE_0465,11/8/2025,Georgia,Kutaisi,30.8,81,1.1,60,None,Cfa,Temperate,Shrubland,40.6,11.8,54,Summer,18508,0,64
+GE_0466,12/8/2025,Georgia,Tbilisi,28.5,44,0,93,None,Cfa,Humid subtropical,Forest,28.5,2.8,223,Summer,"127,480",0,60
+GE_0467,13/8/2025,Georgia,Batumi,28.5,73,46.5,110,None,Cfa,Humid subtropical,NA,32.2,11.7,359,NA,7830,NA,65
+GE_0468,14/8/2025,Georgia,Kutaisi,27.6,51,0,109,None,Cfa,Humid subtropical,Forest,28.1,11.5,62,Summer,7822,36868,65
+GE_0469,15/8/2025,Georgia,Tbilisi,25.0,42,0,74,None,Cfb,Humid subtropical,Forest,25.0,11.5,136,Summer,129953,0,65
+GE_0470,16/8/2025,Georgia,Batumi,30.5,92,0,82,,Cfb,Temperate,Urban,43.4,,249,Summer,9019,0,
+GE_0471,17/8/2025,Georgia,Kutaisi,32.9,83,4.2,92,None,Cfa,Temperate,Urban,49.3,8.7,137,Summer,"12,254",0,59
+GE_0472,18/8/2025,Georgia,Tbilisi,26.8,82,0,74,None,Cfb,Humid subtropical,Forest,26.8,9.0,46,Summer,172746,0,52
+GE_0473,19/8/2025,Georgia,Batumi,24.9,94,18.3,54,Drought,Cfa,Temperate,Shrubland,24.9,4.0,193,Summer,25494,36104,91
+GE_0474,20/8/2025,Georgia,Kutaisi,31.9,57,0,108,None,Cfb,Humid subtropical,Urban,36.0,10.1,116,Summer,12906,0,56
+GE_0475,21/8/2025,Georgia,Tbilisi,32.6,60,14.7,97,None,Cfa,Temperate,Shrubland,38.5,3.0,220,Summer,83342,0,62
+GE_0476,22/8/2025,Georgia,Batumi,25.7,95,6.6,73,None,Cfb,Temperate,Urban,25.7,6.3,136,Summer,"11,575",0,50
+GE_0477,23/8/2025,Georgia,Kutaisi,32.0,47,0,104,None,Cfb,Humid subtropical,Urban,33.7,14.9,320,Summer,10519,0,57
+GE_0478,24/8/2025,Georgia,Tbilisi,27.3,38,4.8,113,None,Cfa,Temperate,Urban,27.0,9.8,231,Summer,156065,0,65
+GE_0479,25/8/2025,Georgia,Batumi,24.1,87,21.3,83,None,Cfb,Temperate,,24.1,11.8,22,Summer,8047,0,64
+GE_0480,26/8/2025,Georgia,Kutaisi,31.3,75,0,80,None,Cfb,Temperate,Forest,40.1,8.1,133,Summer,14369,0,57
+GE_0481,27/8/2025,Georgia,Tbilisi,30.8,77,0,81,None,Cfb,Humid subtropical,Urban,39.2,11.2,309,Summer,165720,0,53
+GE_0482,28/8/2025,Georgia,Batumi,23.7,,0,76,None,Cfb,Temperate,,23.7,9.2,54,Summer,21030,,38
+GE_0483,29/8/2025,Georgia,Kutaisi,24.2,42,17.4,80,None,Cfb,Temperate,Urban,24.2,12.8,137,Summer,13830,0,39
+GE_0484,30/8/2025,Georgia,Tbilisi,29.5,49,3.1,72,Drought,Cfa,Humid subtropical,Forest,30.2,3.4,153,Summer,189622,0,91
+GE_0485,31/8/2025,Georgia,Batumi,,,5.5,98,None,Cfb,Humid subtropical,Urban,33.4,3.3,309,Summer,13980,NA,58
+GE_0486,1/9/2025,Georgia,Kutaisi,17.5,55,3.8,73,None,Cfb,Temperate,Urban,17.5,12.5,138,Autumn,17233,38589,59
+GE_0487,2/9/2025,Georgia,Tbilisi,17.1,42,4.5,120,None,Cfb,Humid subtropical,Urban,17.1,2.5,28,Autumn,84666,0,47
+GE_0488,3/9/2025,Georgia,Batumi,18.2,75,12.3,86,None,Cfb,Humid subtropical,Urban,18.2,6.1,177,Autumn,16256,0,43
+GE_0489,4/9/2025,Georgia,Kutaisi,15.8,65,0,65,None,Cfb,Temperate,Urban,15.8,10.6,257,Autumn,14293,20355,46
+GE_0490,5/9/2025,Georgia,Tbilisi,10.8,42,0,82,None,Cfb,Temperate,Forest,10.8,2.1,158,Autumn,134158,33700,43
+GE_0491,6/9/2025,Georgia,Batumi,15.0,91,0,65,None,Cfb,Humid subtropical,Forest,15.0,7.0,74,Autumn,12502,0,48
+GE_0492,7/9/2025,Georgia,Kutaisi,9.2,66,0,66,None,Cfa,Humid subtropical,Urban,9.2,4.4,20,Autumn,17403,0,57
+GE_0493,8/9/2025,Georgia,Tbilisi,,50,0,123,,Cfa,Humid subtropical,NA,11.7,14.0,324,Autumn,311580,1471325,45
+GE_0494,9/9/2025,Georgia,Batumi,14.2,65,0,80,None,Cfb,Temperate,Shrubland,14.2,12.7,103,Autumn,13408,0,35
+GE_0495,10/9/2025,Georgia,Kutaisi,10.6,71,0,86,None,Cfb,Humid subtropical,Urban,10.6,11.5,215,Autumn,17423,0,43
+GE_0496,11/9/2025,Georgia,Tbilisi,15.2,77,25.2,107,None,Cfb,Temperate,Shrubland,15.2,4.6,102,Autumn,173247,0,46
+GE_0497,12/9/2025,Georgia,Batumi,15.1,68,0,80,NA,Cfa,Humid subtropical,Shrubland,NA,9.0,326,Autumn,15306,0,62
+GE_0498,13/9/2025,Georgia,Kutaisi,10.7,83,1.7,88,Flood,Cfb,Humid subtropical,Shrubland,10.7,4.4,118,Autumn,30528,253130,67
+GE_0499,14/9/2025,Georgia,Tbilisi,18.1,45,0,NA,Storm,NA,Temperate,Shrubland,18.1,32.8,,Autumn,187624,4950781,61
+GE_0500,15/9/2025,Georgia,Batumi,17.9,78,3.3,93,Storm,Cfb,Temperate,Urban,17.9,27.9,130,Autumn,19476,297330,59
